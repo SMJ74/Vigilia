@@ -1,0 +1,1201 @@
+transaction_id,account_id,amount,timestamp,counterparty,country,type
+924c4f85-aaa,e59e6390,16991.23,2026-05-15 20:41:25.484898,Nelson Inc,RU,deposit
+ae215c9b-e02,33995673,1989.63,2026-05-25 13:17:25.484898,"Green, Burke and Robinson",US,deposit
+12cb8883-683,da32954c,3858.67,2026-05-15 17:32:25.484898,Lane-Howell,RU,deposit
+28674fb1-947,ffab9564,16723.22,2026-04-28 20:49:25.484898,Houston and Sons,RU,transfer
+8547059f-6fd,9cdbef8c,23150.59,2026-05-25 19:14:25.484898,Duran-Lindsey,NG,transfer
+20409aea-25e,b5d2a8e7,22650.74,2026-05-25 12:50:25.484898,"Murray, Jackson and Fleming",RU,transfer
+0aacc97f-647,86ad7ce1,18138.87,2026-05-13 21:40:25.484898,Tyler and Sons,CN,deposit
+9e027458-388,f783a8a0,7383.61,2026-05-25 09:46:25.484898,"Hampton, Evans and Powell",RU,withdrawal
+530c95f6-96f,0e72fdbc,3414.04,2026-05-04 04:49:25.484898,Hall-Arnold,NG,withdrawal
+3bbf90e0-06c,64bd9d4a,20238.01,2026-05-02 20:39:25.484898,Goodman PLC,GB,deposit
+9331c410-846,f1f2f8b8,24671.92,2026-05-12 14:11:25.484898,Brennan-Arroyo,BR,deposit
+95633112-86e,73cd751a,17548.02,2026-05-01 14:46:25.484898,Keller Inc,RU,transfer
+5764656b-d91,3bf67d88,8661.5,2026-05-18 10:09:25.484898,Wang PLC,RU,transfer
+7bbe7415-268,ff7f7a7f,12560.1,2026-04-29 00:15:25.484898,Graves-Peterson,BR,withdrawal
+371e74b1-746,23904d3e,18393.93,2026-05-24 23:10:25.484898,"Harris, Lee and Lamb",US,deposit
+9eb6b58e-0eb,470baf53,8790.73,2026-05-17 05:40:25.484898,"Johnson, Mckenzie and Mitchell",RU,deposit
+d93bbbb7-35c,a0324217,19409.68,2026-05-21 15:01:25.484898,Medina and Sons,NG,withdrawal
+7f865a6a-1e3,84b34dd9,4540.71,2026-05-23 12:35:25.484898,Cooper Ltd,US,transfer
+9d511672-5dc,8b80fbf2,10855.18,2026-05-05 18:33:25.484898,Newman Group,BR,withdrawal
+69e8f5cb-c8e,b59da123,22011.14,2026-05-03 11:07:25.484898,Young-Williams,RU,deposit
+cffebcef-318,72fd7d7c,22980.19,2026-05-25 05:41:25.484898,Hill-Brooks,US,deposit
+f9d7dcf4-8d5,726a9a02,1910.33,2026-05-04 01:36:25.484898,Chavez and Sons,RU,transfer
+a1847de1-26f,98e6fd75,10845.82,2026-05-02 22:41:25.484898,Weaver LLC,US,withdrawal
+5af1ec09-bee,78fe24cb,7826.76,2026-05-16 05:53:25.484898,Shepherd PLC,BR,withdrawal
+0dc6dff1-d17,e6a157af,6289.31,2026-05-04 07:55:25.484898,"Richards, Waters and Yates",CN,withdrawal
+5aa5c6c2-1c8,9adb99b1,3203.24,2026-05-05 06:34:25.484898,Glover-Gibson,US,transfer
+3c7b7441-e8a,13d979a5,2199.35,2026-05-03 04:24:25.484898,Brown Group,US,withdrawal
+e8f88c74-404,a19951a6,5637.33,2026-04-28 11:31:25.484898,Murphy-Duran,BR,transfer
+b9e8c19f-698,44b9d8f8,21895.66,2026-05-04 14:27:25.484898,"Erickson, Rhodes and Greer",GB,withdrawal
+12182101-228,4dcf309c,10984.91,2026-05-01 10:13:25.484898,Watson PLC,RU,withdrawal
+f2b7f0b9-33a,a4ae6ee6,19355.27,2026-05-16 09:58:25.484898,May-Chambers,BR,transfer
+185b5e59-b35,820e26f2,4463.88,2026-05-17 21:59:25.484898,Brown-Pearson,RU,withdrawal
+232d609a-47e,f9c4ecdc,23844.63,2026-05-15 04:01:25.484898,Wright Group,RU,deposit
+7f3f7d25-1f1,e4f1a332,3533.65,2026-05-19 07:30:25.484898,Gibson Ltd,GB,withdrawal
+2a517b47-59b,ca886935,10542.41,2026-05-25 10:12:25.484898,Smith Group,GB,transfer
+47fcec4b-1bb,36db2a89,1565.58,2026-05-19 10:43:25.484898,Brown-Wolf,NG,deposit
+77bd2686-60f,30926854,1260.02,2026-05-07 19:40:25.484898,Cooper PLC,CN,withdrawal
+0847759b-a67,19f304e4,9507.69,2026-05-23 15:19:25.484898,Elliott Group,RU,withdrawal
+decef388-c99,afe92a84,1013.79,2026-05-03 03:58:25.484898,Morgan LLC,US,transfer
+dc73f6ff-a68,d22f58e6,8593.0,2026-05-06 15:56:25.484898,Powell PLC,GB,transfer
+fc9c062e-10c,4053daaf,7105.95,2026-05-25 02:38:25.484898,"Francis, David and Burnett",GB,transfer
+5e66e83e-209,5a774cc4,18268.22,2026-05-14 15:43:25.484898,Williams PLC,GB,deposit
+09438090-306,b907470d,151.73,2026-04-28 08:36:25.484898,Heath and Sons,CN,transfer
+9e6380c0-f06,9d2b2359,3338.43,2026-05-04 10:28:25.484898,Brown LLC,CN,transfer
+97e19b3b-a08,332ff73e,952.87,2026-04-30 07:38:25.484898,"Brown, Sanchez and Aguirre",BR,withdrawal
+01133415-916,b4c42f47,13155.34,2026-05-18 05:43:25.484898,"Ortiz, Harris and Ingram",RU,withdrawal
+4741d570-878,177fd006,2794.94,2026-05-25 08:04:25.484898,Lloyd-Escobar,US,deposit
+ba0f3087-e34,42019ba0,1723.61,2026-05-27 08:50:25.484898,"Brown, Simmons and Bell",BR,withdrawal
+a3c04bbf-6d9,8da0e05b,23224.06,2026-05-21 07:24:25.484898,Hall-Hughes,RU,deposit
+44aeeaa6-803,4a3389b1,7460.77,2026-05-04 07:31:25.484898,"Hunt, Randolph and Grant",NG,transfer
+08dfeccf-f4f,caede886,2691.01,2026-05-27 05:35:25.484898,Jones and Sons,CN,deposit
+d91d9f73-39c,08de7659,5415.97,2026-05-26 18:09:25.484898,Hoover Inc,CN,withdrawal
+4ca8f11b-8fa,c77b6761,21982.22,2026-05-23 14:56:25.484898,"Sherman, Williams and Thomas",US,transfer
+7507155b-0c3,c37a2142,16799.59,2026-05-26 10:50:25.484898,"Hoffman, Flowers and Gibson",RU,deposit
+a347376d-c48,90a9f727,14501.74,2026-05-19 21:48:25.484898,"Myers, Barnett and Peterson",BR,deposit
+a85d72b0-2b4,ad2a2ae9,8008.06,2026-05-17 03:26:25.484898,"Stone, George and James",BR,withdrawal
+0c962a0b-f18,e02ba1d3,21381.06,2026-05-26 18:07:25.484898,Jones and Sons,CN,withdrawal
+49bd866d-9e0,f669c8b0,17547.26,2026-05-19 03:48:25.484898,Long-Turner,NG,transfer
+c740ebad-68e,291d1e82,20779.86,2026-05-01 06:35:25.484898,Anderson LLC,BR,withdrawal
+8a502daf-04d,4a47e48d,5184.98,2026-05-15 23:55:25.484898,Dawson-Marshall,GB,withdrawal
+66af8600-ddc,15d2e934,22507.9,2026-05-03 12:04:25.484898,Herring Ltd,US,withdrawal
+afab1af0-dc4,845654f5,12519.96,2026-05-11 14:39:25.484898,Lawrence-Horton,US,withdrawal
+f8d24e13-fef,8d4ddb4a,3718.85,2026-05-13 13:01:25.484898,Morse Inc,RU,transfer
+83e44513-095,7af83bdf,6791.57,2026-05-16 10:00:25.484898,Brown and Sons,US,deposit
+8c1711fb-607,29e90d3a,16832.9,2026-05-03 13:50:25.484898,Banks-Hamilton,US,deposit
+6406260b-ad3,ac2088f9,10566.91,2026-05-20 08:14:25.484898,Thomas Ltd,NG,transfer
+8bba5c64-f45,220323d8,1146.3,2026-05-24 15:55:25.484898,"Baker, Martinez and Yates",BR,deposit
+7f7522d3-45e,d0cdcffc,10551.27,2026-05-17 08:42:25.484898,Farmer and Sons,BR,withdrawal
+ca19a7fe-405,a5b12ee5,6907.23,2026-05-01 18:39:25.484898,"Mclean, Reynolds and Perkins",BR,withdrawal
+3989ecd7-404,636fc7c9,6988.11,2026-05-17 14:45:25.484898,Dalton-Charles,CN,withdrawal
+e85689bd-2ec,6ff93805,2205.79,2026-05-24 22:43:25.484898,Smith PLC,BR,withdrawal
+067965b9-562,4ef7ad3d,10680.16,2026-05-13 06:41:25.484898,"Fox, Jones and Jimenez",NG,transfer
+d3dbbf9a-aa8,4979cb73,20167.67,2026-05-12 23:32:25.484898,Salazar-Rodriguez,US,transfer
+d748b741-ee0,0545ab98,7042.59,2026-05-03 15:45:25.484898,Cherry Inc,US,withdrawal
+055bd73f-245,297e94ae,1859.5,2026-05-21 14:19:25.484898,"Ortiz, Sanchez and Walton",RU,withdrawal
+23d25bc9-3cb,b76521e9,8714.11,2026-05-13 07:24:25.484898,"Ramirez, Avila and Lee",NG,deposit
+b09b7050-4ae,48dac90c,5613.03,2026-05-25 18:04:25.484898,Morris PLC,BR,withdrawal
+8066f7e7-c31,6200de9b,8375.87,2026-05-22 05:21:25.484898,"Bowman, Warner and Espinoza",CN,withdrawal
+cb6abbd9-8f6,c5266777,22732.49,2026-05-12 17:26:25.484898,"Bryant, Rich and Pierce",GB,transfer
+e961b76f-069,3d086723,596.77,2026-05-19 21:45:25.484898,Malone Inc,NG,withdrawal
+6513a555-619,43c6553f,11619.48,2026-05-21 19:42:25.484898,Herrera-Smith,NG,withdrawal
+ade088d0-d34,810b1694,6565.08,2026-05-14 09:32:25.484898,"Lane, Hale and Soto",US,deposit
+c31eeccb-f76,3a0fd88c,2380.71,2026-05-17 06:07:25.484898,Velez LLC,CN,transfer
+f6a767d7-782,0e1a9cfa,23876.79,2026-04-28 06:39:25.484898,"Gay, Gonzalez and Hull",BR,transfer
+2c0ee97c-c05,86532959,14867.98,2026-05-03 05:25:25.484898,Compton-Simon,CN,transfer
+cc829d1c-db5,c97e3977,21154.68,2026-05-17 09:06:25.484898,Chen Inc,RU,transfer
+55db99ce-e78,11a03b1b,4656.53,2026-05-11 06:11:25.484898,Meza-Martinez,BR,transfer
+0c2898a4-6e1,6508305e,20125.74,2026-05-20 14:13:25.484898,Johnson LLC,US,transfer
+924af00e-5bf,ac649a2a,14577.05,2026-05-10 22:12:25.484898,"Mckee, Cole and Miller",GB,deposit
+e99b48f7-cee,e2e19f38,17830.13,2026-05-25 14:51:25.484898,Martin-Robinson,BR,deposit
+4fa031c5-173,dab8e395,10957.12,2026-05-03 15:48:25.484898,"Tucker, Figueroa and Black",RU,transfer
+730cc6df-43a,b424ad61,16562.82,2026-05-19 14:43:25.484898,Wells-Murphy,GB,withdrawal
+55d9bc0f-815,ad3e14b4,1797.51,2026-05-08 14:29:25.484898,"Cherry, White and Turner",RU,transfer
+117a1654-0b3,caea40fb,593.43,2026-05-01 12:33:25.484898,"Hill, Gillespie and Mercado",NG,withdrawal
+15e3b65d-0c7,30fa1bca,4652.46,2026-05-08 11:13:25.484898,Turner Group,US,transfer
+42afbcbf-c1c,35dbfa14,3658.94,2026-05-11 15:11:25.484898,Collins Group,GB,withdrawal
+59b20fb4-cfa,93260a34,18714.54,2026-05-03 03:02:25.484898,Rowland-Davis,NG,withdrawal
+e644c986-062,5bd2990b,20339.81,2026-05-15 21:37:25.484898,"Morgan, Stein and Bailey",NG,deposit
+4888b135-d66,609a1894,1048.41,2026-05-11 13:30:25.484898,"Porter, Lewis and Kim",GB,deposit
+03e466b2-684,701c700f,8652.03,2026-05-12 19:37:25.484898,Kline-Garcia,BR,withdrawal
+d6883a32-182,4d7978cf,7931.27,2026-05-03 12:33:25.484898,Payne-Clements,GB,withdrawal
+a95c9ce1-5f9,742f2b47,14313.03,2026-05-20 08:25:25.484898,"Jones, Hubbard and Medina",RU,deposit
+0086d87b-6c0,54e9b55c,4768.66,2026-05-17 22:53:25.484898,Hill-Cohen,US,transfer
+066df222-ab9,ec487fc9,6356.97,2026-04-29 04:06:25.484898,Johnson-Hendricks,GB,withdrawal
+30c6c8a3-a65,94b31a0e,19199.23,2026-05-04 08:54:25.484898,Smith Inc,RU,transfer
+81599df4-3ff,88cfe8b3,16361.39,2026-05-21 08:30:25.484898,"Weaver, Vazquez and Mcdaniel",BR,withdrawal
+0fc27594-e52,53893cb3,19549.38,2026-05-02 03:09:25.484898,"Williams, Smith and Berger",BR,deposit
+69e1a76e-9fe,3c888256,2951.38,2026-05-10 16:33:25.484898,"Ward, Morrison and Martinez",US,transfer
+91317890-466,a98702e4,24189.81,2026-05-21 03:13:25.484898,Santos PLC,NG,transfer
+d7a748dc-dba,3647c7e8,19584.04,2026-05-06 16:40:25.484898,"Tucker, Mitchell and Stewart",NG,withdrawal
+b0b27687-8b9,16a6ed48,17968.86,2026-05-25 00:28:25.484898,Butler PLC,BR,deposit
+bf6cb1a0-2cc,97997e79,9117.85,2026-04-29 14:51:25.484898,Hampton-Alvarez,RU,withdrawal
+98006a78-35b,efd3f7ad,22265.1,2026-05-02 20:47:25.484898,"Sosa, Allen and Mullins",CN,deposit
+317ba7c9-6c6,f8878fd2,17296.86,2026-05-01 06:49:25.484898,Farmer-Smith,CN,withdrawal
+6f31f7fc-5ff,956d9c22,15379.41,2026-04-29 01:35:25.484898,"Marshall, White and Lester",US,withdrawal
+96665361-2d2,88b644a5,24282.88,2026-05-20 18:17:25.484898,"Nelson, Bradley and Rodriguez",RU,withdrawal
+5a7eba35-94d,84db0e0a,5777.31,2026-05-25 18:11:25.484898,Norris-Lambert,NG,deposit
+b2c9de4b-d97,74556632,8689.6,2026-05-23 15:03:25.484898,"Waters, Floyd and Schneider",US,withdrawal
+dde8cbcc-3eb,20fb87f1,14243.63,2026-04-27 15:24:25.484898,"Parker, Robertson and Thompson",NG,withdrawal
+44de6f35-8a2,2386031a,16600.23,2026-05-18 12:08:25.484898,"Brown, Tate and Cannon",GB,withdrawal
+9fd24b09-b72,5662fa16,1321.22,2026-05-23 05:50:25.484898,"Downs, Gilbert and Cabrera",BR,transfer
+bb57ced6-163,b3a04052,15618.53,2026-05-10 10:39:25.484898,Mendez and Sons,GB,withdrawal
+1c53ba3e-797,191dceec,17830.77,2026-05-18 21:08:25.484898,Herrera-Griffith,BR,withdrawal
+ab053c5a-96b,88d8b826,16071.22,2026-05-20 05:08:25.484898,Henderson PLC,CN,withdrawal
+e72e44f0-388,79abd878,24063.67,2026-05-10 02:29:25.484898,Moore and Sons,NG,deposit
+2eb3cec1-262,7de8a7ce,14589.53,2026-05-08 11:28:25.484898,Eaton Group,BR,withdrawal
+6c3167c9-aa2,fbef6ca3,5611.0,2026-05-26 14:55:25.484898,"Melton, Harris and Brandt",GB,deposit
+98bf2894-5c0,97633918,13357.61,2026-05-26 19:06:25.484898,"Miller, Payne and Benson",NG,withdrawal
+f99809b2-20b,7c2c139d,6056.9,2026-05-04 16:57:25.484898,Gray-Carpenter,US,deposit
+d16b99c0-b1b,8c7693fa,17439.15,2026-05-20 11:30:25.484898,Rowe-Clark,GB,transfer
+eb0a9cc9-d39,deb74fc9,24698.53,2026-05-21 16:35:25.484898,Harris-Pearson,NG,transfer
+bb414c35-94b,cc27ff69,22396.37,2026-05-15 16:57:25.484898,Perry PLC,CN,withdrawal
+96602e94-060,11bc758d,3997.41,2026-05-19 13:51:25.484898,"Gibson, Clayton and Pruitt",NG,withdrawal
+d628edaa-d02,9ecb5b0e,6241.23,2026-05-26 09:00:25.484898,Williams-Davis,US,transfer
+58578270-640,49ed6cd0,24216.42,2026-05-26 15:24:25.484898,"Washington, Larsen and Carr",GB,withdrawal
+376bdf9f-256,7898ef88,17761.43,2026-05-08 17:21:25.484898,Jackson PLC,BR,withdrawal
+f0fe7e8b-942,c7f17335,8611.38,2026-05-21 03:05:25.484898,"Dominguez, Mccoy and Watkins",BR,withdrawal
+ccffdb77-f0a,5b82dbe9,22191.63,2026-05-03 15:12:25.484898,Stephens PLC,BR,deposit
+711ab3cd-0c4,a284f280,6994.13,2026-05-14 09:23:25.484898,Jensen-Torres,NG,deposit
+6d8f7b80-c33,61334a60,22435.54,2026-05-21 14:01:25.484898,Brown-Munoz,GB,withdrawal
+22e446f4-45a,b43f085a,18256.01,2026-05-18 12:19:25.484898,Mitchell Ltd,CN,withdrawal
+2c4cc03b-d4c,2452972e,20211.48,2026-04-30 16:04:25.484898,Anderson-Perez,RU,transfer
+d229fc41-6c8,b72d8205,13829.0,2026-05-12 00:11:25.484898,"Soto, Parrish and Horton",BR,withdrawal
+48c637fd-c30,d949c656,4687.13,2026-05-09 16:57:25.484898,Bradley Group,GB,transfer
+8127af17-c99,eb993da8,7567.77,2026-05-20 23:32:25.484898,Peterson-Williams,BR,deposit
+0fbfe19c-798,bc6bc192,8213.59,2026-05-20 23:55:25.484898,Cox-Ray,NG,transfer
+4eb97402-aa7,40cbef0d,24983.11,2026-05-19 18:02:25.484898,"Wong, Perez and Delgado",GB,withdrawal
+a2a15688-8de,6d63e8e5,16492.93,2026-05-22 16:06:25.484898,"Tran, Myers and Anderson",BR,withdrawal
+a377cd9e-52b,be486ab8,9706.32,2026-05-18 16:00:25.484898,Sparks and Sons,RU,transfer
+9b8fdedb-9e0,1455c68f,8371.82,2026-05-20 00:44:25.484898,Harrison PLC,CN,deposit
+ada07b15-192,fe4335a6,1733.45,2026-05-04 19:31:25.484898,Patel-Cook,BR,transfer
+b0228035-769,ef94fcbc,13750.84,2026-04-27 16:40:25.484898,Marquez LLC,BR,deposit
+543cc7d9-399,ebf4d247,563.57,2026-05-14 20:52:25.484898,Ferguson and Sons,BR,transfer
+22d82a36-fc3,34bf2416,3083.59,2026-05-19 07:27:25.484898,Singh-Johnson,NG,deposit
+1ee623c9-e56,53bf5841,11867.95,2026-05-17 00:02:25.484898,Nash PLC,CN,withdrawal
+8f73230b-b06,ebb03723,15167.5,2026-05-02 20:04:25.484898,Black Inc,NG,withdrawal
+baa3730d-6d3,1b58be1b,13823.44,2026-05-12 18:23:25.484898,Montgomery-Miller,CN,deposit
+213c4127-489,f3cc77b5,23786.06,2026-05-17 15:50:25.484898,Morales-Hebert,BR,deposit
+0b91ab0e-1d3,45b6b48d,20762.55,2026-05-18 05:24:25.484898,Morris Inc,US,transfer
+276e0b37-021,3d572ece,17537.54,2026-05-14 06:02:25.484898,Lee Group,GB,transfer
+f97a1c8e-255,c97e78ec,2880.88,2026-04-29 15:03:25.484898,"Jackson, Solis and Ryan",US,deposit
+f680ac01-a05,92f02bf8,12012.24,2026-04-30 04:52:25.484898,"Salinas, Hunt and Johnson",CN,transfer
+a222fabd-841,1dec0da0,4921.24,2026-04-28 19:42:25.484898,Miller-Stewart,BR,deposit
+2009a989-571,3e1cce8a,20355.55,2026-05-03 01:37:25.484898,Perkins-Saunders,BR,transfer
+7e98c2f5-08b,1ba17feb,8225.02,2026-05-05 08:58:25.484898,"Horn, Henry and Oconnell",CN,withdrawal
+addf0e36-437,67bb7342,11796.35,2026-05-13 02:40:25.484898,Suarez-Elliott,BR,withdrawal
+ad3ec18a-a01,7a8e1810,968.56,2026-05-14 01:53:25.484898,"Harper, Wilson and Kemp",GB,deposit
+13610e8b-479,243233e4,18345.38,2026-05-17 23:50:25.484898,Morgan-Barnes,BR,deposit
+bd6db072-613,81ee0c38,24485.38,2026-05-21 18:47:25.484898,Patel-Butler,RU,transfer
+fbca9c3c-7cb,a5a5c066,1309.27,2026-05-14 14:02:25.484898,"Bryant, Williams and Bates",NG,transfer
+9776e484-86b,c1e60baa,153.86,2026-05-25 14:56:25.484898,"Logan, Bailey and Wilson",CN,transfer
+0c868793-a46,957b6f7d,3434.96,2026-05-22 10:58:25.484898,Thomas Ltd,RU,deposit
+c7e5f964-4a9,522c87f5,16551.94,2026-05-03 02:32:25.484898,Parker PLC,US,deposit
+4415dd33-3c4,a5b95cb2,24168.37,2026-05-20 13:51:25.484898,Willis Group,NG,withdrawal
+08f42645-7b3,bbfc88b9,23709.86,2026-05-23 09:16:25.484898,Mcgrath-Allen,US,deposit
+6c255e7e-643,8e3bbbda,12128.07,2026-05-24 11:27:25.484898,Velez Group,US,withdrawal
+4cf1761f-154,382a3c2a,4586.03,2026-05-18 11:09:25.484898,Thompson-Mccullough,US,transfer
+a797390b-df6,90520fc7,9132.73,2026-05-14 05:31:25.484898,Bryant-Taylor,GB,transfer
+e86b3b41-949,267ec461,3876.84,2026-04-30 04:45:25.484898,"Bright, Rodriguez and Reid",RU,withdrawal
+e595d158-501,52c55278,17084.24,2026-05-27 07:07:25.484898,"Chavez, Garner and Johnson",CN,transfer
+36f3346b-2bc,405db312,16141.31,2026-05-09 07:53:25.484898,Lynn Inc,NG,transfer
+743f6e9a-8fc,21eb308a,15263.04,2026-05-10 02:52:25.484898,Cook Group,NG,transfer
+87c652cb-ed9,9e9c94fd,3519.72,2026-05-06 23:53:25.484898,Garner Ltd,NG,withdrawal
+1d221a6f-cb1,72e2ae35,20159.7,2026-05-06 20:57:25.484898,Ball Group,US,withdrawal
+1204c3fc-203,a4de4994,13883.59,2026-05-15 14:51:25.484898,"Wiggins, Robinson and Adams",GB,deposit
+7ff76b45-032,425f66dd,2359.53,2026-05-04 22:31:25.484898,Gray LLC,BR,transfer
+41fd67e6-fa2,fbf5a5b3,7388.21,2026-04-29 07:12:25.484898,Curtis Inc,NG,deposit
+9d172ea5-6c6,5c4bb497,23592.5,2026-05-14 18:51:25.484898,Brooks Group,CN,deposit
+e96dd55b-3e5,fdb000a7,16537.59,2026-05-05 08:29:25.484898,Walker and Sons,NG,transfer
+996f0e1d-6e8,3da2c0c3,22620.63,2026-04-30 15:06:25.484898,"Martin, Baker and Cohen",GB,deposit
+712bbcc7-bc0,4a23c3c3,6063.42,2026-05-16 21:52:25.484898,Richardson-Jones,NG,withdrawal
+866d8f09-749,cc20c5dc,18615.0,2026-05-21 15:46:25.484898,Sherman Ltd,GB,transfer
+118f031f-e51,e4274be2,14440.09,2026-05-15 13:03:25.484898,Ingram Ltd,US,withdrawal
+0adc3f2b-b77,589d91dd,9402.99,2026-05-23 20:26:25.484898,"Evans, Huff and Russell",RU,withdrawal
+f26c42af-ece,d340a559,24473.28,2026-04-30 14:35:25.484898,"Herring, Rivera and Hobbs",BR,withdrawal
+83d4181a-1c7,023c8f23,14615.4,2026-05-20 06:02:25.484898,"Patel, Zamora and West",CN,withdrawal
+090d6d10-c5f,d6bdd17f,14936.38,2026-05-01 05:16:25.484898,Johnson Group,US,deposit
+6c7bd31e-3e1,18409d7e,20464.44,2026-05-06 00:55:25.484898,"Lopez, Martin and Cox",GB,deposit
+f3159332-9d4,c6f7df15,10700.65,2026-05-27 10:41:25.484898,Ellis Inc,GB,transfer
+0a057162-05e,d8b690ae,1134.28,2026-05-24 14:25:25.484898,Elliott-Erickson,BR,withdrawal
+09f588ba-99c,5f46a09f,24331.28,2026-05-26 22:13:25.484898,"Nolan, Carrillo and Gutierrez",GB,deposit
+528e1260-3fb,d0db1d92,19156.99,2026-05-17 05:59:25.484898,"Villarreal, Johnson and Jenkins",CN,transfer
+3db33cc3-7d7,04d2c812,22003.82,2026-05-20 21:18:25.484898,"Rodriguez, Scott and White",RU,transfer
+59ccf457-e01,8522afbb,14242.72,2026-04-28 23:24:25.484898,Cobb-Reilly,NG,deposit
+ca49bb12-2d6,3edadc1f,15185.76,2026-05-06 17:25:25.484898,"Grant, Mcfarland and Tate",RU,transfer
+8063b7cc-235,aea9253d,11785.46,2026-05-11 01:37:25.484898,Lee-Humphrey,GB,withdrawal
+3b5153f8-c62,5328adb7,3897.01,2026-05-12 23:59:25.484898,"Scott, Carey and Walker",BR,transfer
+4e7ea3bd-f62,38e9ea1e,3930.17,2026-05-18 12:03:25.484898,"Myers, Boone and Smith",RU,deposit
+13fdd365-96a,e4d15f4b,19417.91,2026-05-04 05:40:25.484898,Nguyen-Vaughn,NG,transfer
+74715e9b-ba3,21b4db9d,24504.06,2026-05-07 01:31:25.484898,Scott Ltd,NG,withdrawal
+ddc437ea-d98,3674907b,20131.97,2026-05-17 13:13:25.484898,Brady Ltd,US,withdrawal
+a25162fd-306,0b3cf276,14262.77,2026-05-19 15:29:25.484898,Moyer-Cole,CN,transfer
+217403ae-8dc,1416c4a1,13265.41,2026-05-26 14:41:25.484898,Reed Ltd,CN,deposit
+9b7d28f5-166,22e46e66,17818.17,2026-05-26 16:27:25.484898,"White, Vasquez and Thomas",NG,withdrawal
+eb2e21ee-cc5,e5b19f52,13520.47,2026-05-17 09:32:25.484898,"Andrews, Bentley and Carey",BR,transfer
+45d5270d-578,2547e0da,23823.54,2026-05-20 08:35:25.484898,Fry and Sons,GB,deposit
+b205d5dc-9d0,53458b7b,3380.34,2026-05-15 09:19:25.484898,Woods-Ross,US,withdrawal
+0b5df45d-974,abde452f,10725.54,2026-05-05 05:38:25.484898,"Schaefer, Freeman and Velez",CN,withdrawal
+ba4e7053-6b8,c50f8584,11533.12,2026-05-14 13:12:25.484898,Griffin-Levy,BR,deposit
+f7fdaba0-ded,25dc857f,22176.8,2026-05-19 19:33:25.484898,"Owens, Edwards and Tucker",RU,deposit
+33ebae4c-8cb,9f3bb445,2199.1,2026-05-22 16:27:25.484898,Gregory Ltd,US,withdrawal
+8868d97a-e6e,4ab94505,19799.89,2026-05-15 10:48:25.484898,Roberts Inc,RU,transfer
+894fa45a-db5,5357ba48,15107.9,2026-05-03 05:55:25.484898,"Gutierrez, Richardson and Luna",GB,transfer
+6a4d36a3-2ac,5ee888a8,23813.0,2026-05-24 03:23:25.484898,Roberson-Castillo,CN,withdrawal
+ec3fbac3-a89,5f081e27,9528.22,2026-05-07 08:13:25.484898,Thomas-Hughes,US,deposit
+be0165fc-b6a,c11eae27,3924.41,2026-05-20 10:58:25.484898,Houston-Dyer,US,withdrawal
+eeb9c103-b86,96b86ac3,19023.07,2026-04-29 16:42:25.484898,"Morgan, Flores and Lewis",NG,withdrawal
+7017b94f-e17,52aeb03a,218.59,2026-05-10 04:58:25.484898,Willis PLC,GB,deposit
+40b29660-8b7,e78f0d7f,10575.14,2026-05-20 00:25:25.484898,Rowe-Baker,NG,withdrawal
+e269c2bf-534,1c11d8e4,15220.46,2026-05-10 06:48:25.484898,Smith and Sons,RU,transfer
+0e0c4dbe-7e7,ec00fb9d,12232.6,2026-05-14 21:47:25.484898,Smith-Salazar,RU,transfer
+a9474531-8e6,67c365f5,4370.87,2026-05-15 01:00:25.484898,Butler-Mcfarland,GB,deposit
+8e73777b-10f,e94e8f61,22156.0,2026-05-26 03:09:25.484898,"Zimmerman, Mason and Brown",RU,deposit
+3414639a-c9a,8cae4153,14932.24,2026-05-12 05:06:25.484898,"Jones, Adams and Villarreal",BR,transfer
+4facc63b-791,688f6666,1393.7,2026-05-14 17:01:25.484898,"Franklin, Gonzales and Castillo",GB,transfer
+17840668-d85,4ca0448b,22137.66,2026-05-17 04:56:25.484898,Marsh-Randolph,BR,deposit
+99fd4efe-7c0,36b84821,6115.98,2026-05-16 23:06:25.484898,"Wall, Thompson and Gomez",CN,withdrawal
+68527a80-c51,736a2d53,4370.34,2026-05-07 01:03:25.484898,Sloan PLC,NG,deposit
+d6a93a7b-abd,0fdab00f,19815.26,2026-05-20 05:46:25.484898,Cochran-Taylor,GB,withdrawal
+dea3e488-ca9,058fd0e7,1184.81,2026-05-07 14:45:25.484898,Butler Inc,CN,withdrawal
+52efa698-50a,41f84adc,22940.39,2026-05-23 06:22:25.484898,Weaver PLC,NG,deposit
+ded0e02b-1ca,919395a5,16397.1,2026-05-12 04:16:25.484898,Myers LLC,CN,deposit
+4389c36f-638,87bce2fd,16266.17,2026-05-20 21:37:25.484898,"Arnold, Miller and Evans",NG,transfer
+5e9305ea-73c,9a6d4428,17582.73,2026-05-04 10:24:25.484898,Rogers Group,CN,withdrawal
+27d40053-c0e,cf685342,13207.43,2026-05-23 06:06:25.484898,"Moore, Sutton and Orozco",CN,deposit
+60106ec3-7a4,c1b39e36,4271.58,2026-05-11 12:12:25.484898,Hoffman PLC,US,withdrawal
+dd43aeb4-899,f450fb07,55.78,2026-05-24 20:24:25.484898,Davis-Martinez,RU,transfer
+6d1550f4-4ec,eeb8d80c,616.77,2026-05-04 14:52:25.484898,Davidson-Cain,CN,transfer
+8b1f8ff1-621,7f6e4566,19585.23,2026-05-24 21:22:25.484898,Davis-Hardin,CN,deposit
+c15bf6bd-184,2246c487,4089.66,2026-05-15 18:29:25.484898,Reese-Gould,GB,withdrawal
+89eb1e18-86c,4e4585c6,3314.99,2026-05-10 03:09:25.484898,Holland PLC,NG,transfer
+d69d68cb-8b0,645edcc7,5385.31,2026-05-18 01:43:25.484898,Conrad PLC,BR,transfer
+7a2f34cf-ffc,a899f2b9,15367.54,2026-05-19 19:56:25.484898,Johnson-Escobar,US,deposit
+f7b19f7e-bed,34165897,6566.0,2026-04-27 16:43:25.484898,"Moreno, Salinas and Phelps",CN,transfer
+e6953d41-314,43dfe2b4,1875.41,2026-04-30 18:52:25.484898,Gray Ltd,BR,deposit
+87087ba8-2b9,96cdbdc5,23377.54,2026-05-12 14:27:25.484898,Henry Group,CN,deposit
+4ec4a5f5-7da,ed147a78,5499.27,2026-05-19 08:38:25.484898,Fowler-Campbell,NG,transfer
+03808937-a29,47b41a82,21296.6,2026-05-09 16:48:25.484898,Rodriguez Inc,US,deposit
+94d72892-5b0,089aae7b,17440.98,2026-05-20 22:02:25.484898,Mays Group,GB,transfer
+ecccbbc7-de6,cf1ca9fe,22475.1,2026-05-25 04:25:25.484898,Conley Ltd,US,transfer
+cc6f7b84-b96,ccaa1e51,23904.51,2026-04-29 09:06:25.484898,Hart-Weber,RU,deposit
+f1eea625-742,e0f4225f,16561.23,2026-05-15 20:21:25.484898,Gould LLC,RU,deposit
+5a5ac138-b9b,482e77e2,868.51,2026-05-10 02:05:25.484898,"Cole, Wright and Pratt",CN,transfer
+728c9710-496,e40a3327,8810.03,2026-05-06 03:34:25.484898,"Higgins, Meyers and Gray",US,transfer
+6ef47d29-521,499e300f,938.62,2026-05-08 16:38:25.484898,Sims Group,US,deposit
+6551d690-811,e84cbd2b,18486.42,2026-05-21 20:33:25.484898,Rogers-Valencia,BR,deposit
+133a0b61-e62,f7ef2a2f,19907.81,2026-05-27 10:28:25.484898,Rowe Group,NG,deposit
+d492585e-5d5,497e2d20,10645.59,2026-05-01 22:57:25.484898,"Cantu, Escobar and Mcfarland",NG,withdrawal
+ad416fd6-4fd,58fe3c1d,18781.18,2026-05-01 05:35:25.484898,Patel-Hernandez,BR,transfer
+e9133b6a-967,66c691ce,5025.88,2026-05-14 13:48:25.484898,Robbins-Kelly,GB,deposit
+a612b7ab-15c,54dea928,188.36,2026-05-09 22:49:25.484898,Stephens and Sons,RU,withdrawal
+54b3dc12-6cd,9b9f81f7,20848.22,2026-05-07 00:57:25.484898,Castaneda-Crawford,NG,deposit
+42766b63-d25,1b33fe7b,19747.88,2026-04-30 12:23:25.484898,"Ward, Johnson and Gonzalez",RU,withdrawal
+085d35b2-c18,66f274bb,24779.09,2026-05-06 23:02:25.484898,Campbell-Hurst,NG,withdrawal
+f588dd84-ab8,6292c6dc,8817.79,2026-05-18 12:38:25.484898,Hodges-Washington,CN,deposit
+364aa9bd-245,6b028fbe,21818.8,2026-05-06 23:05:25.484898,"Barrett, Zimmerman and Cook",US,withdrawal
+fd69fcc6-5ca,0f0fac91,8024.81,2026-05-02 19:50:25.484898,White PLC,GB,withdrawal
+4f71fcca-9aa,491ad0b7,12377.56,2026-05-17 04:59:25.484898,Matthews-Martinez,BR,withdrawal
+a41fb124-1b6,1332a386,5081.28,2026-05-23 09:22:25.484898,Smith Group,NG,transfer
+16c08dce-9f0,62089e14,4614.04,2026-05-04 23:18:25.484898,"Hall, Fritz and Reed",RU,deposit
+b2eedbfa-c38,ea3c8bd1,14079.6,2026-05-22 21:48:25.484898,Walker-Johnson,CN,transfer
+a6fb745d-391,bfe42fe1,11697.51,2026-04-28 11:34:25.484898,Curry-Bell,NG,deposit
+456ce710-3dc,0766df5b,13351.88,2026-05-10 06:02:25.484898,Meza Group,CN,deposit
+011094ab-fde,b2f4fe6b,2562.46,2026-05-17 04:01:25.484898,Scott LLC,US,deposit
+388bf526-835,72aecb92,9422.02,2026-05-20 00:30:25.484898,Hall-Taylor,GB,deposit
+149b365b-324,9549dfa9,6779.04,2026-05-12 11:22:25.484898,Vega-Obrien,BR,deposit
+47ebd49f-7fc,33ec1d3b,7105.45,2026-05-10 15:48:25.484898,"Hammond, Oneill and Collins",RU,deposit
+f4c1d395-5e9,1c6237bd,6549.6,2026-05-13 19:33:25.484898,Wallace-Sweeney,RU,transfer
+2fcf24a2-fa1,dbaa88fe,10173.99,2026-05-03 22:36:25.484898,"Foster, Mann and Bell",CN,withdrawal
+a6e2c659-d83,74e4518d,22091.47,2026-05-21 19:31:25.484898,"White, Sandoval and Lewis",US,transfer
+c145fcd8-894,ecd641d7,11336.0,2026-05-07 13:41:25.484898,"Blanchard, Case and Goodwin",NG,deposit
+4126ff85-73b,afb3ee19,18708.63,2026-05-07 14:45:25.484898,Myers Inc,US,withdrawal
+0983d891-0cb,819cc6a2,19080.62,2026-05-03 15:06:25.484898,Lopez-Benton,GB,transfer
+d0a79557-a8e,a0ee7f40,21888.21,2026-05-04 01:08:25.484898,Brown PLC,GB,withdrawal
+cd8ba593-078,aec9de33,8754.16,2026-05-21 19:06:25.484898,Nicholson-Smith,US,withdrawal
+47f00797-c33,fa855516,3658.97,2026-05-13 07:28:25.484898,"Henson, Mason and Wilson",CN,transfer
+d47928a1-302,3c0e32fe,23993.64,2026-05-15 07:57:25.484898,"Mata, Mahoney and Ferguson",NG,withdrawal
+740d7a9e-c59,e118b2b2,8339.21,2026-05-03 07:07:25.484898,Kim-Day,GB,deposit
+d57e1c7d-dd6,f1f958e1,22498.86,2026-05-22 17:26:25.484898,Cox Group,US,transfer
+f56ce6a4-29e,70e685b4,3537.42,2026-05-21 11:31:25.484898,"Padilla, Nichols and Hutchinson",RU,withdrawal
+de43e1b2-6d4,54c06566,3003.17,2026-05-03 19:01:25.484898,"Stevens, Tapia and Valdez",RU,withdrawal
+2732295a-5bd,a6f99d5e,12267.92,2026-05-24 12:05:25.484898,Taylor-Mcguire,GB,deposit
+4a1cfb64-696,7de2d0b0,3354.84,2026-05-16 12:35:25.484898,Hill PLC,GB,deposit
+638babd9-dc6,13840250,21014.46,2026-05-07 06:49:25.484898,Anderson Ltd,GB,withdrawal
+eaff8045-99e,eff4b415,21561.68,2026-05-08 02:48:25.484898,Velez-Barr,US,transfer
+b0af7576-97c,34e15e7c,12266.89,2026-05-17 21:51:25.484898,Wilkerson-Green,US,deposit
+926614f5-552,aa666a2e,11753.27,2026-05-19 13:34:25.484898,Pearson Inc,GB,deposit
+380d15a7-ed8,a4ade0b6,842.05,2026-05-20 05:40:25.484898,Andrews and Sons,CN,withdrawal
+f1631596-086,11ec9504,23981.4,2026-05-11 01:03:25.484898,Vasquez-Hess,RU,transfer
+d6363b1b-33e,5e02cb65,5563.94,2026-05-27 07:15:25.484898,"Martinez, Thomas and Sanders",GB,transfer
+4200d287-521,6d06a8f6,13231.55,2026-05-06 04:31:25.484898,"Parrish, Mendez and Washington",BR,deposit
+dfb07177-02c,6cc3945e,3167.39,2026-05-14 18:38:25.484898,Johnson Group,RU,transfer
+1e4aae7c-874,23963e08,17857.34,2026-05-15 09:54:25.484898,"Nelson, Martin and Smith",CN,transfer
+a33f1741-42d,424d4439,21444.18,2026-05-06 16:38:25.484898,"Lee, Farley and Salazar",GB,withdrawal
+b7d8dcc9-ae0,c966eb29,3415.79,2026-05-15 20:30:25.484898,Nelson-Bell,US,deposit
+df97fbf1-8e9,66e9275a,24976.14,2026-04-30 05:33:25.484898,Crawford PLC,US,deposit
+76441d35-caa,2ad25402,6657.16,2026-05-17 08:10:25.484898,Spencer-Ramirez,CN,transfer
+53c7f72c-e64,8e54910a,11106.06,2026-05-02 09:57:25.484898,Morton-White,NG,withdrawal
+74bef8c7-99c,f8240de7,16028.28,2026-05-14 14:45:25.484898,"Bruce, Lawson and Patterson",GB,withdrawal
+36bbf973-b27,5a06c458,20122.61,2026-05-01 13:22:25.484898,"Reynolds, Cline and Phelps",GB,withdrawal
+d8a162b9-878,a89f90ab,24859.84,2026-05-15 02:34:25.484898,"White, Miller and Gray",NG,withdrawal
+3a5deeb7-359,81a02d9b,532.89,2026-05-20 17:17:25.484898,Johnson Ltd,GB,withdrawal
+cac187c0-758,b57bb4b6,9334.72,2026-04-30 11:24:25.484898,Russell-Davis,GB,withdrawal
+82bf35be-bd8,5fcefde9,13089.68,2026-05-03 18:41:25.484898,"Jones, Thomas and Winters",NG,transfer
+59f8e644-104,ecf0d4be,24638.2,2026-05-13 05:42:25.484898,"Frost, Gomez and Burton",US,deposit
+dbc63358-62d,061cfe7c,16858.42,2026-05-15 03:37:25.484898,"Stout, Nelson and Rogers",GB,deposit
+0355e3f5-ec0,4a472039,17306.72,2026-05-16 04:25:25.484898,"Walters, Bradshaw and Smith",CN,transfer
+c4863c9f-8cc,e28fb76f,11067.6,2026-05-21 21:52:25.484898,"Becker, Francis and Howard",NG,deposit
+201ae424-c4f,61de8893,18522.57,2026-05-16 14:09:25.484898,Reynolds-Lopez,US,transfer
+4740dc64-3a8,924c3f62,18690.76,2026-05-01 16:07:25.484898,"Sanchez, Ryan and Santiago",RU,deposit
+00555cdd-0d0,94051673,16037.86,2026-05-11 01:44:25.484898,"Morrison, White and Martin",US,transfer
+7e0bae38-5a5,620f7845,15080.81,2026-05-22 17:04:25.484898,Chaney Inc,CN,transfer
+d469b228-0a3,ade12c73,12997.23,2026-05-01 17:05:25.484898,Callahan Inc,NG,deposit
+195690a0-f54,79c942af,17216.23,2026-04-29 20:06:25.484898,Howard-Mccarthy,US,withdrawal
+9d9f9a59-eb9,5aea946b,7949.5,2026-05-03 14:08:25.484898,Nelson-Mccoy,NG,deposit
+e4cd6a43-f9a,9fd523b3,12046.32,2026-05-11 09:51:25.484898,Thomas-Rodriguez,GB,withdrawal
+15c49d2e-4f9,6f5e8696,24288.2,2026-05-02 16:53:25.484898,"Bailey, Wyatt and Taylor",US,deposit
+ee024207-4f7,241ea3de,12722.21,2026-05-14 12:51:25.484898,Bright Ltd,CN,deposit
+52c450cd-81d,8e36c596,15037.08,2026-05-09 08:01:25.484898,Miller-Whitaker,NG,deposit
+797828f4-9a4,7445b1e0,23175.38,2026-04-29 07:13:25.484898,"Shah, Smith and Howard",CN,withdrawal
+8b98b49e-bf1,1f239f71,9479.09,2026-05-24 05:19:25.484898,"Mills, Berry and Johns",GB,transfer
+00716294-547,e81c206a,18953.06,2026-05-07 14:38:25.484898,"Young, Flores and Hansen",CN,withdrawal
+ef8fd016-94d,87a968b1,22119.67,2026-05-11 17:33:25.484898,Norton and Sons,RU,withdrawal
+39106ef7-b1e,df7637e5,12116.69,2026-04-30 01:02:25.484898,Odom-Chen,CN,transfer
+1ff60ee0-fb3,ba31ef52,5172.31,2026-04-30 20:43:25.484898,Camacho Group,GB,transfer
+342fa14c-d2a,e239078c,18905.67,2026-05-14 10:43:25.484898,Williams-House,RU,transfer
+03bb2010-997,4c7a7159,9103.35,2026-05-10 19:53:25.484898,"Cantu, Le and Vaughn",GB,deposit
+fe5a2ce2-934,83550a17,8856.89,2026-05-06 16:25:25.484898,Thompson PLC,NG,withdrawal
+07239cbe-ca1,41e4296e,6199.53,2026-05-24 19:05:25.484898,"Garner, Stuart and Reyes",CN,deposit
+cb633d4b-813,518b865d,5621.59,2026-05-08 05:17:25.484898,James-Curry,NG,deposit
+40c02197-291,3ae5938e,10729.43,2026-05-03 13:06:25.484898,Costa Ltd,GB,withdrawal
+7ada3b36-ce4,0ca1ba10,3677.16,2026-04-28 16:16:25.484898,"Hinton, Duncan and Fernandez",BR,withdrawal
+4c16a76d-c0b,2f768a76,23127.01,2026-05-15 17:49:25.484898,"Morales, Jones and Hernandez",RU,deposit
+d2e8826c-939,f4960edf,4943.94,2026-05-13 13:49:25.484898,Thompson Ltd,BR,deposit
+e2e09304-a54,731601b0,2327.64,2026-05-20 04:48:25.484898,Howell and Sons,BR,transfer
+b4346c3b-10e,eccab612,13013.08,2026-05-13 10:50:25.484898,"Oconnell, Lee and Burton",CN,deposit
+eb428210-8f7,a002fd6b,17133.76,2026-05-12 06:35:25.484898,Greene Ltd,CN,transfer
+939586d8-658,11b68369,9741.34,2026-05-22 18:14:25.484898,Williams-Diaz,GB,withdrawal
+7a16d0dc-f42,cea07ab5,2345.56,2026-04-30 18:30:25.484898,"Christian, Mendoza and Collins",NG,deposit
+32164938-03d,0208062e,20341.84,2026-05-14 16:13:25.484898,Hernandez and Sons,BR,deposit
+b06cd379-dd8,79667e69,8821.5,2026-05-10 06:42:25.484898,Jones PLC,CN,deposit
+370c2a08-37e,536c6b76,3903.85,2026-05-08 04:41:25.484898,Mills Inc,BR,deposit
+4ecdc651-b9d,8d10e0e2,21988.36,2026-05-06 23:11:25.484898,Diaz and Sons,GB,deposit
+71d93d9f-31d,24ed5473,7803.85,2026-05-23 00:39:25.484898,Gordon Group,CN,transfer
+e2b3b9dc-5d8,4c0590a2,24566.84,2026-05-03 13:35:25.484898,Fields Group,CN,deposit
+15d49457-896,170b345c,1040.01,2026-05-01 05:41:25.484898,Richardson Group,BR,withdrawal
+6e2c1cbc-e1e,e3cfc3d1,6726.81,2026-05-03 05:25:25.484898,Abbott-Clark,RU,withdrawal
+47d4e489-a91,205ec814,6505.92,2026-05-12 22:04:25.484898,Garcia Group,BR,transfer
+fa0077e3-cb9,e03bb0b8,22682.0,2026-05-19 04:48:25.484898,Roman Group,US,transfer
+b960ca24-705,b48bc8e6,10861.01,2026-05-08 12:42:25.484898,Nguyen PLC,NG,deposit
+d849ff03-454,e236e55b,11959.11,2026-05-17 10:06:25.484898,Morgan-Scott,US,withdrawal
+b41e559b-b55,41c8b3cf,19449.99,2026-05-23 01:53:25.484898,Johnson PLC,CN,deposit
+338c2434-81c,9551d2f0,5936.25,2026-05-05 07:40:25.484898,Turner-Patterson,BR,deposit
+215d9bc1-91d,ee640ca0,7917.09,2026-04-30 13:35:25.484898,Rios LLC,GB,deposit
+08be8324-273,ed160092,21852.88,2026-05-24 05:13:25.484898,"Harris, Roberts and Williams",RU,withdrawal
+f9ac5cb1-23e,e267ca23,11448.68,2026-05-06 08:03:25.484898,Henderson LLC,NG,withdrawal
+d327e828-39b,a4abbfd6,7462.98,2026-04-30 05:52:25.484898,"Sosa, Bates and Ingram",GB,withdrawal
+5d06c45a-0b4,33365f70,23404.16,2026-04-30 02:06:25.484898,"Moyer, Collier and Dougherty",BR,withdrawal
+bd34a93c-b74,d0c52235,951.44,2026-05-27 01:40:25.484898,Phillips-Wagner,GB,withdrawal
+0b535191-637,11acf5f2,13523.25,2026-05-19 10:56:25.484898,"Rocha, Salazar and Adams",GB,withdrawal
+79b6fe99-5d1,aabf8b27,5375.56,2026-05-17 12:23:25.484898,Alexander-Lawson,GB,deposit
+7e205121-7bf,9151296a,19585.7,2026-05-25 19:31:25.484898,Ford Inc,RU,transfer
+2c0dc354-74c,c02e54cc,8772.02,2026-05-09 23:27:25.484898,"Johnson, Randall and Gonzalez",CN,deposit
+0b6215ee-f6e,3a3cd112,16835.54,2026-05-11 12:24:25.484898,"Bell, Thompson and Ward",NG,withdrawal
+ad560c4d-473,50cc3d2a,20126.65,2026-05-23 11:28:25.484898,Roberts-Miller,BR,withdrawal
+b19834c3-b09,cb98e71b,7502.82,2026-05-22 08:22:25.484898,Jackson-Tran,CN,deposit
+2a931897-999,4de4447c,3280.74,2026-05-13 02:49:25.484898,Carter PLC,GB,transfer
+ae34798e-be7,90154b2f,3195.44,2026-05-04 11:53:25.484898,Hodges-Frank,NG,transfer
+28d13f39-322,30e999f3,3414.43,2026-05-10 06:24:25.484898,Green PLC,US,deposit
+d46b0de5-48a,e0fd72fc,18518.1,2026-05-23 23:45:25.484898,Hodges Inc,NG,withdrawal
+274a555d-2b9,2e48ffb9,3812.68,2026-05-19 22:07:25.484898,"Patterson, Perkins and Lozano",RU,transfer
+1607659f-260,4c49fb0b,7325.25,2026-05-09 15:55:25.484898,Bray LLC,RU,deposit
+eccb3e11-2f7,f1ad5e05,13205.72,2026-05-16 16:12:25.484898,Howard-Williams,BR,deposit
+1a8d37ac-559,dd08801e,911.43,2026-05-03 22:57:25.484898,Williams Inc,CN,deposit
+56f7bf06-3db,9f060db2,17531.84,2026-05-14 13:39:25.484898,Sullivan-Sims,GB,withdrawal
+2233a8f4-654,27e31ef4,20947.39,2026-05-14 11:41:25.484898,Taylor LLC,BR,deposit
+ac9fa3a0-e13,8a3cdc25,21203.02,2026-05-15 22:51:25.484898,Lyons-Cox,RU,transfer
+ef509989-5b3,6a5a6088,20019.33,2026-05-20 04:05:25.484898,"James, White and Bell",US,transfer
+3b325180-c05,cbf04b1f,19963.98,2026-05-25 05:03:25.484898,Sheppard LLC,CN,withdrawal
+617bdaa7-5d6,95ee96e4,9519.17,2026-05-25 12:49:25.484898,Burns and Sons,CN,withdrawal
+0ff58d87-586,343317ff,5196.99,2026-05-14 13:15:25.484898,Williams and Sons,GB,deposit
+aba022fa-b07,f3872e19,10432.16,2026-05-20 00:58:25.484898,Thompson Group,CN,withdrawal
+8217ef8c-a70,ed7d2c39,20387.31,2026-04-30 09:12:25.484898,Escobar-Hicks,BR,withdrawal
+f3554721-76b,2d7ee58e,18000.54,2026-05-26 23:16:25.484898,Blevins Inc,NG,deposit
+48009297-8f1,9d4b811f,24911.36,2026-04-28 13:48:25.484898,Olson-Chapman,RU,withdrawal
+c380fc3c-f1a,72cd86ae,5062.25,2026-05-22 16:34:25.484898,Walter-Mullins,NG,withdrawal
+adc39c0e-eec,ae688e14,18848.49,2026-05-17 08:27:25.484898,"Robinson, Clark and Evans",CN,deposit
+f9270e6d-744,543df32e,7466.0,2026-05-10 15:53:25.484898,Lopez Ltd,US,transfer
+92f8c6d8-b1f,4e1f06a5,9183.11,2026-05-18 21:34:25.484898,Williams PLC,GB,withdrawal
+f739d5c0-ece,c32d7dee,17845.55,2026-05-02 09:24:25.484898,"Miller, Wall and George",NG,deposit
+4b77dc7d-b3a,db273d9c,20583.11,2026-05-20 08:45:25.484898,Miranda-Burns,RU,deposit
+706967b7-b3d,c6c046bb,11287.63,2026-05-17 09:56:25.484898,"Moore, White and Ramirez",GB,withdrawal
+55682e63-cb9,641bd8d7,12007.85,2026-05-07 05:41:25.484898,Gonzalez-Harvey,BR,transfer
+13d7999f-bd5,1f172a2d,17036.37,2026-05-12 22:46:25.484898,"Edwards, Hancock and Mcconnell",GB,withdrawal
+ab87aed5-729,82e4730b,21221.38,2026-05-02 13:01:25.484898,"Burnett, Holmes and Frank",BR,deposit
+1b88c3de-71d,6953ed46,5242.17,2026-05-19 06:50:25.484898,"Tucker, Miller and Coleman",RU,deposit
+0f713a7f-c35,8b479c21,11144.95,2026-04-28 01:39:25.484898,Randolph-Underwood,BR,withdrawal
+e0b565e9-b21,f40a0aa6,4191.45,2026-05-23 04:14:25.484898,"Hicks, Ball and Martinez",RU,withdrawal
+2dfc8483-5a2,cdd74800,3283.0,2026-05-09 13:57:25.484898,Bernard-Dunlap,CN,deposit
+a910cc31-74f,0d3c6c32,9150.0,2026-05-04 03:21:25.484898,Jenkins-Fox,NG,withdrawal
+f51af474-738,90927de2,12671.97,2026-05-13 09:25:25.484898,Austin-Herrera,RU,deposit
+1360a563-f1a,5c7b5049,18789.07,2026-05-07 08:31:25.484898,Jones Group,CN,transfer
+39c562cc-7aa,45b11466,7105.26,2026-05-11 17:59:25.484898,"Middleton, Landry and Chavez",BR,transfer
+16d84d03-541,4f34acad,7848.77,2026-05-15 04:59:25.484898,"Daniel, Long and Goodman",CN,withdrawal
+d3d0df7e-c82,aa774562,2751.23,2026-05-02 21:37:25.484898,Gamble-Smith,BR,deposit
+69e80162-422,834809e7,11335.44,2026-05-03 01:06:25.484898,Cochran-Kline,CN,deposit
+40fc54ec-733,54f4f192,4907.1,2026-04-29 06:36:25.484898,"Floyd, Garrison and Marquez",GB,deposit
+7c56ea05-8d7,9a22f274,12187.78,2026-05-03 04:19:25.484898,Garcia Ltd,CN,deposit
+82b28eaf-e14,c9bbbbe1,1722.58,2026-05-06 16:50:25.484898,Valenzuela PLC,NG,transfer
+23a0b0ed-bfa,c800a84e,9677.89,2026-05-15 09:57:25.484898,Jackson LLC,RU,transfer
+712b9d6b-d44,88fd3275,24493.21,2026-05-13 05:35:25.484898,"Johnson, Mclaughlin and Ray",CN,deposit
+8abef1ef-646,ba919d9e,9015.69,2026-05-14 15:24:25.484898,Larson-Steele,RU,withdrawal
+1a3ec376-164,dc8f7e5a,477.35,2026-05-18 15:53:25.484898,Sawyer Inc,US,transfer
+bf145c44-a83,314745a4,19254.97,2026-05-26 22:22:25.484898,Smith-Wilson,US,withdrawal
+e922f5f5-856,9b2d34f7,4698.24,2026-04-28 15:37:25.484898,Potts-Warren,RU,deposit
+54a0e4bf-6e5,82521e99,13889.08,2026-05-15 21:32:25.484898,Williamson-Torres,US,deposit
+7b913310-6f8,68f6c0de,13156.15,2026-05-02 00:59:25.484898,Cline and Sons,CN,withdrawal
+b9817728-333,8e82c1d9,3799.13,2026-04-27 20:11:25.484898,Nash-Guerra,NG,transfer
+cc59ac51-100,e1233e68,6407.34,2026-05-04 14:32:25.484898,"Barajas, Valdez and Bridges",US,deposit
+74116223-d74,9f6ef45c,16744.35,2026-05-05 20:35:25.484898,Anderson and Sons,NG,deposit
+65613d2f-3b7,ff9d4a25,11842.85,2026-05-05 18:57:25.484898,Osborn and Sons,BR,withdrawal
+f2333ecf-51e,00913f4b,20976.03,2026-04-28 17:29:25.484898,Alexander-Sanders,GB,deposit
+275bf337-f45,ebebdbd7,17899.75,2026-05-25 13:10:25.484898,May-Cruz,BR,transfer
+f5de5d1b-4ab,23f409da,24780.05,2026-05-06 07:46:25.484898,"Campbell, Smith and Chapman",GB,withdrawal
+f9afd291-f10,6eae16f9,11696.17,2026-05-20 01:06:25.484898,Jones PLC,US,withdrawal
+1c306c07-7b6,5892ac25,124.62,2026-04-29 12:53:25.484898,"Ramos, Conner and Taylor",NG,withdrawal
+1418f1cd-020,b092931d,18975.91,2026-05-14 09:37:25.484898,Stone Ltd,US,transfer
+f74aa6a5-508,5a6eda94,19664.47,2026-05-27 00:05:25.484898,"Chavez, Scott and Simpson",BR,withdrawal
+d2eacbbd-7ba,d13a86fc,21524.31,2026-04-28 22:16:25.484898,"Nichols, Smith and Harper",US,transfer
+586f4dca-f2a,3340df53,8040.22,2026-05-25 20:42:25.484898,Lewis and Sons,BR,transfer
+4a07a9bb-54d,0114cbc0,11023.28,2026-05-11 04:52:25.484898,Anderson Ltd,GB,deposit
+f6b9a165-c4d,634839a9,9775.34,2026-05-01 08:03:25.484898,Smith LLC,CN,transfer
+e68196fe-bc8,0a2ee18e,20100.83,2026-05-07 01:38:25.484898,Riley-Sanders,NG,withdrawal
+b167c5c9-196,97e25f1c,16079.27,2026-04-30 19:27:25.484898,Jones-Vazquez,US,withdrawal
+3eab3305-8f9,393ed52d,14073.66,2026-05-09 08:37:25.484898,"Faulkner, Carter and Villegas",US,withdrawal
+d102fd72-990,ec8d271a,20807.87,2026-05-10 09:35:25.484898,Delgado-Thomas,US,withdrawal
+9feaa708-091,87793b44,23463.05,2026-05-10 00:52:25.484898,Trevino-Mcconnell,RU,transfer
+b6ee4940-48f,efdcc173,9683.91,2026-04-28 18:13:25.484898,"Jackson, Moran and Hatfield",BR,deposit
+dce7e6c0-819,ee73601c,9412.73,2026-05-10 09:56:25.484898,Valdez and Sons,US,withdrawal
+7fda01d9-9ea,7b3b22a6,6923.33,2026-05-19 16:40:25.484898,Lindsey Group,US,transfer
+b2e7a270-f8f,153a382e,2753.22,2026-05-18 22:49:25.484898,"Romero, Guerrero and Miller",BR,transfer
+9ea3712e-cfb,cd789752,15950.15,2026-05-07 05:53:25.484898,"Morgan, Chan and Walters",NG,transfer
+6130947c-596,3d0d4022,4662.61,2026-05-13 08:06:25.484898,Lynch-Turner,CN,transfer
+83ea84bb-919,485bcb50,581.73,2026-05-04 19:37:25.484898,"Rojas, Hamilton and Bailey",GB,deposit
+c0cab4ed-431,91e5f364,8981.35,2026-05-04 03:57:25.484898,Vasquez Ltd,GB,transfer
+02824b81-7d0,5762ffa9,5581.97,2026-05-16 23:10:25.484898,Atkinson-Willis,CN,deposit
+327f5ad0-031,3f757d68,1613.14,2026-05-12 04:55:25.484898,Porter-Garcia,NG,withdrawal
+327fe531-31c,a5c69af1,20809.63,2026-05-26 04:27:25.484898,Rogers-Ross,NG,deposit
+933a782c-e7c,5dfae015,23853.41,2026-05-21 21:35:25.484898,Ochoa Ltd,CN,deposit
+5675df82-7e7,dc83cf04,16438.69,2026-05-12 20:13:25.484898,"Perez, Saunders and Bright",GB,withdrawal
+3639a997-154,61a390c7,6916.61,2026-05-02 12:23:25.484898,"Mullins, Combs and Torres",RU,transfer
+087d427c-8de,7375fce6,5528.8,2026-05-21 02:34:25.484898,"Jordan, Mitchell and Rodriguez",US,withdrawal
+2ea79a0f-2da,30a52493,22434.95,2026-05-24 22:19:25.484898,"Clark, Holmes and Vasquez",GB,transfer
+6d28bdc2-63c,fcaa4950,18230.03,2026-05-19 13:18:25.484898,Morgan-Cook,GB,deposit
+12a301df-b39,ed4e798c,19905.8,2026-05-05 09:05:25.484898,"Hodge, Lewis and English",GB,withdrawal
+a1be9445-526,57ffd57f,13441.21,2026-05-16 09:19:25.484898,Rivera-Ponce,GB,withdrawal
+9ccbb101-bc2,067a23ed,18833.34,2026-05-08 16:52:25.484898,"Taylor, Kennedy and Lane",RU,withdrawal
+08e354a4-908,26d11ec9,5055.17,2026-05-26 20:13:25.484898,"Thomas, Williams and Blair",US,transfer
+8e11c62e-d95,996cdeda,16557.84,2026-05-11 02:43:25.484898,Santos-Leonard,US,deposit
+aa45a14b-961,8ae47913,8359.69,2026-05-04 17:31:25.484898,"Davis, Armstrong and Sanchez",GB,withdrawal
+c0f1e937-c9e,285ad858,1639.48,2026-04-30 03:50:25.484898,"Davis, Robinson and Powers",BR,transfer
+197416e4-c24,fae75bab,14970.2,2026-05-10 05:29:25.484898,Johnson-Ramos,GB,transfer
+cbd6cfdc-01c,81a14245,15959.63,2026-05-12 16:29:25.484898,Campbell LLC,GB,deposit
+66e84c31-663,30450aab,10001.19,2026-05-05 18:32:25.484898,"Nguyen, Baird and Valdez",RU,deposit
+72550422-c1e,143a09ab,10291.6,2026-05-02 18:24:25.484898,Martinez-Montoya,US,deposit
+00bebf5c-d56,e629605b,2392.68,2026-05-09 17:07:25.484898,Larsen Inc,US,deposit
+88f432ac-ecc,a0aaddb1,21632.76,2026-05-22 14:21:25.484898,Fuller PLC,BR,deposit
+0b23ecea-e4b,b6858f8e,22874.08,2026-04-29 18:22:25.484898,"Sellers, Walker and Mack",NG,deposit
+5178a81b-f88,c1b92188,11817.34,2026-05-20 21:04:25.484898,"Davis, Stewart and Krueger",RU,withdrawal
+e01383a8-ff7,536a0335,21297.84,2026-05-26 01:53:25.484898,Kelley Ltd,NG,deposit
+239a4437-695,719fbe4b,21147.95,2026-05-18 18:31:25.484898,"Mercado, Wood and Oconnor",NG,withdrawal
+61f4f532-2cc,4ff59331,13039.55,2026-05-06 14:58:25.484898,"Martin, Merritt and Yates",GB,deposit
+ccadd94a-4c8,ff735fc3,20969.93,2026-05-12 05:26:25.484898,Diaz-Newman,US,transfer
+baa0c8ac-99e,55691781,1950.39,2026-05-11 00:50:25.484898,"Sanchez, Odonnell and Andrews",CN,transfer
+35f3152c-fa5,97b61ed3,4677.65,2026-04-30 08:56:25.484898,Lewis-Cordova,US,deposit
+881d0c17-1d6,3f77a328,5025.71,2026-05-13 02:30:25.484898,Robinson Group,US,withdrawal
+dbb90e32-471,f459fa74,18851.27,2026-05-17 22:41:25.484898,"Clark, Vaughn and Flynn",NG,withdrawal
+a1c57aa3-40d,9f7d090f,14545.62,2026-05-09 17:22:25.484898,Holmes Ltd,NG,withdrawal
+4d196f4d-435,2a79110d,13887.91,2026-05-06 16:18:25.484898,Moreno-Johnson,CN,transfer
+537e764a-400,41ccbf5e,4477.42,2026-04-29 09:55:25.484898,"Schneider, Lane and Osborne",NG,deposit
+d160176b-e97,208dda49,15056.92,2026-05-01 08:06:25.484898,Roman-Williams,BR,deposit
+44f2076e-0f6,25dde4c1,16236.79,2026-05-13 09:28:25.484898,"Velasquez, Rivera and Avery",GB,transfer
+4e8477ba-9ce,e97fd826,12036.77,2026-05-09 23:58:25.484898,"Morton, Knight and Sanchez",RU,deposit
+c7d17533-a7c,0fa6e633,20135.41,2026-05-14 06:40:25.484898,"Mitchell, Powell and Moyer",BR,withdrawal
+81894b03-82d,56319793,14866.26,2026-05-02 00:54:25.484898,Jones-Wood,RU,transfer
+7c42bced-107,69b42024,11005.62,2026-05-12 04:28:25.484898,"Underwood, Lopez and Hernandez",CN,withdrawal
+0470859f-eec,d6773ffe,4467.89,2026-05-12 20:16:25.484898,"King, Matthews and Dougherty",RU,deposit
+f6b1b283-c84,422b2d65,2418.95,2026-05-14 01:11:25.484898,"Lamb, Smith and Garcia",BR,transfer
+aba8213e-5b4,b6b84501,19491.17,2026-05-02 22:00:25.484898,Stanley-Hanson,NG,transfer
+c86b99ce-42b,81e9be90,4855.72,2026-05-05 15:36:25.484898,Hoffman and Sons,CN,deposit
+7f328100-9b7,ad44a9ea,12423.57,2026-05-24 00:17:25.484898,Bailey LLC,CN,transfer
+39e21107-777,ec43e5d3,19532.6,2026-05-07 20:17:25.484898,Young-Richardson,BR,deposit
+ad23643c-1b3,87e0b8fe,7272.32,2026-05-04 09:30:25.484898,Rivers Ltd,GB,transfer
+16794fe3-697,e1f9cdcc,2763.21,2026-05-26 13:21:25.484898,"Stone, Fitzpatrick and Rosales",BR,transfer
+8ed5b9b7-6ae,13d38724,14658.5,2026-05-25 18:42:25.484898,"Smith, Brown and Mccarthy",US,withdrawal
+f82f75ce-599,27b4e9bb,506.89,2026-05-12 08:05:25.484898,Cole-Morris,US,transfer
+e42c53fa-a2a,6cb13b39,17916.12,2026-05-26 16:19:25.484898,Mooney Group,US,transfer
+18f799e7-903,4959c632,5798.7,2026-05-05 20:24:25.484898,Fuller-Foster,NG,transfer
+c14c506f-b8d,ff9b0873,1405.48,2026-05-11 10:59:25.484898,White Ltd,RU,transfer
+434f7dbc-6f1,8c4875f6,2646.89,2026-05-17 10:20:25.484898,"Berry, Newman and Phillips",GB,transfer
+c978ea3c-1fa,70af7247,21375.1,2026-05-24 08:26:25.484898,"King, Johnson and Garcia",RU,withdrawal
+2326df65-637,74d308f9,6371.85,2026-04-28 23:50:25.484898,"Kelley, Perez and Wells",US,deposit
+a00f1ccd-a65,2a0491c2,22687.98,2026-05-04 04:25:25.484898,"Moran, Lin and Clark",NG,transfer
+22da64f7-10e,26205cf4,12678.48,2026-05-02 07:59:25.484898,Smith Inc,RU,transfer
+d00189e9-84d,e7c79afb,5400.12,2026-05-25 11:50:25.484898,Hodge-Johnson,US,withdrawal
+acf7ef93-fb7,39bc6e34,8584.05,2026-05-23 22:11:25.484898,Kane and Sons,NG,withdrawal
+a4f8baa9-c6d,8db989a5,22233.71,2026-05-10 12:06:25.484898,Malone-Lee,GB,withdrawal
+bfe3c5ae-c65,19a589ad,14707.14,2026-05-03 10:07:25.484898,Wade and Sons,GB,deposit
+5fc90a69-07c,33799bd7,20284.94,2026-05-10 17:01:25.484898,Thompson Inc,BR,deposit
+9b8cc53b-b35,343da76d,11622.25,2026-05-19 10:21:25.484898,"Brown, Torres and Marks",GB,withdrawal
+b2cd2449-1b0,23d99fd9,9018.71,2026-05-07 23:18:25.484898,Gonzalez PLC,NG,transfer
+9b3f08eb-913,67030cd4,4309.13,2026-05-07 22:58:25.484898,"Castro, Collins and Jackson",GB,transfer
+402019be-c94,2c0ea95b,12574.34,2026-05-19 20:12:25.484898,Harmon-Mcintyre,BR,transfer
+3b99855d-915,1f5b4763,13619.17,2026-04-30 03:42:25.484898,Steele-Chavez,CN,deposit
+f2cb6f95-6cf,d834cb98,24491.1,2026-05-14 10:57:25.484898,Kelly Ltd,US,withdrawal
+377dee87-8d4,ee53d6ec,23851.71,2026-05-05 18:25:25.484898,Cooper Ltd,RU,deposit
+72ea0372-f85,bfddf686,2013.78,2026-04-28 12:01:25.484898,"Campbell, Chang and Hill",RU,withdrawal
+aa79a938-1de,7846e4df,4020.29,2026-05-26 22:59:25.484898,Henderson-Harris,GB,transfer
+3a1d9e89-744,e5807830,17677.31,2026-05-11 12:55:25.484898,"Burke, Mason and Knox",US,withdrawal
+2e188c74-87b,e189daf0,10074.07,2026-04-29 00:23:25.484898,Richardson LLC,RU,deposit
+175808a8-aff,d51d4eca,1832.7,2026-05-14 10:58:25.484898,Gibson-Wallace,CN,withdrawal
+eb584c64-9eb,f828d839,17748.44,2026-05-04 15:39:25.484898,"Welch, Mack and Delacruz",US,transfer
+a3e67a16-333,f89fb69d,20841.17,2026-05-13 15:36:25.484898,Diaz Inc,NG,transfer
+fac13f1b-d60,60d43a5c,14391.09,2026-05-09 02:09:25.484898,Ellison and Sons,NG,deposit
+0ce4e223-1d0,a2455b01,18182.72,2026-05-01 17:56:25.484898,Padilla Inc,US,deposit
+8031c9c2-89f,4708488c,17117.69,2026-05-14 23:11:25.484898,Boone-Brady,GB,transfer
+01bec1ed-d8a,f5848da3,1247.76,2026-05-07 01:36:25.484898,Edwards-Moody,CN,transfer
+804ca14b-7ff,93ea8e1d,23097.98,2026-05-16 19:42:25.484898,"Sanchez, Powell and Brown",GB,transfer
+a14112fd-56e,2e4a860f,6762.11,2026-05-15 17:03:25.484898,Stevens LLC,RU,withdrawal
+555668f4-cfe,ef62ffeb,3045.98,2026-05-08 23:14:25.484898,Ward-Osborne,RU,deposit
+d894a5a9-aa2,ac58a8e0,10303.41,2026-05-05 18:16:25.484898,Phillips-Smith,RU,deposit
+e61bcbd2-d21,2054c9a6,21773.39,2026-04-30 05:54:25.484898,Phillips-Owens,US,transfer
+99546ad6-954,5c0788d2,4324.43,2026-04-29 10:33:25.484898,"Powell, Griffith and Adams",GB,deposit
+e87838fc-0ca,9fbd7ad3,5562.11,2026-05-13 03:26:25.484898,Allen-Medina,CN,deposit
+7e72ddb8-8f4,47c4fd32,21529.32,2026-05-02 16:04:25.484898,Roberson-Wall,CN,withdrawal
+0b9d3c07-e7c,730eb13b,12191.06,2026-05-05 04:40:25.484898,"Jones, Ramirez and Johnson",CN,deposit
+d449c3d7-a27,40f28aa8,15754.55,2026-05-23 22:35:25.484898,"Hooper, Cochran and Gonzalez",RU,deposit
+aed95a70-f7c,94da5305,14711.39,2026-05-03 05:40:25.484898,Lamb-Thompson,GB,transfer
+8814bdf5-2f9,3f218fbe,16229.89,2026-05-04 16:31:25.484898,"Delgado, Mitchell and Higgins",NG,transfer
+fd7adc85-356,61444aad,22097.18,2026-05-19 13:41:25.484898,Gaines Ltd,CN,transfer
+b140e746-322,d7f67437,6489.47,2026-05-19 07:05:25.484898,Smith PLC,BR,withdrawal
+fa78ff49-0e6,a0a7738c,19982.2,2026-05-02 19:30:25.484898,Marsh Inc,RU,transfer
+2e49a38c-281,6b07a2f6,12918.48,2026-05-18 12:14:25.484898,Miller and Sons,GB,transfer
+be6a733f-218,16eb36b7,18989.64,2026-05-20 03:31:25.484898,Jenkins Group,NG,deposit
+c4a9e0d8-45e,8a79d625,10312.94,2026-05-16 04:41:25.484898,"Lewis, Porter and Mejia",US,transfer
+f123deff-5f7,a038102d,14639.38,2026-05-08 00:06:25.484898,Fleming-Hodge,US,deposit
+23b09ac5-5ae,e8c0e28f,11319.38,2026-05-09 23:17:25.484898,Berg-Clayton,US,deposit
+de991593-e2a,a679cf56,2647.05,2026-05-22 12:17:25.484898,Mclean and Sons,GB,transfer
+0630cf42-42d,82e2a3c3,2890.16,2026-05-25 06:22:25.484898,"Green, Allen and Shaw",US,transfer
+b3e3aa36-96b,397ac94e,18969.22,2026-05-22 02:26:25.484898,Lawrence-Cox,US,transfer
+dca4f630-1ea,94910ce0,9914.06,2026-05-10 05:20:25.484898,Kirby-Olson,GB,deposit
+08a4a9ed-b55,f54a9a3a,22507.25,2026-05-15 15:48:25.484898,Booth Ltd,NG,deposit
+3e23d94f-fad,cba8ce8c,7452.93,2026-05-22 12:44:25.484898,Singleton Inc,GB,withdrawal
+7bb1cdb3-3e8,8a19f562,912.91,2026-05-08 09:10:25.484898,"Gutierrez, Wiley and Wright",CN,withdrawal
+49f0265a-52a,7bed8eaa,14361.84,2026-05-11 22:49:25.484898,Pope Ltd,NG,deposit
+ab34d4d7-9ea,b13fe9e4,21786.01,2026-05-16 22:58:25.484898,Hammond-Marks,CN,withdrawal
+23789b9d-3c5,ea182160,352.91,2026-05-14 20:12:25.484898,Kim PLC,BR,deposit
+d2697728-008,d5ec53eb,10917.4,2026-04-29 00:23:25.484898,Higgins Ltd,GB,deposit
+db033856-47c,2f5a1ac1,18240.79,2026-05-08 05:07:25.484898,Craig-Macias,US,deposit
+7d0e244c-965,7081cc0f,3866.38,2026-05-12 10:37:25.484898,"Gonzalez, Henderson and Cummings",GB,withdrawal
+395b27f3-6d7,54668d1a,184.01,2026-05-15 05:35:25.484898,"Zamora, Terrell and Mitchell",RU,transfer
+507cc928-8b7,bd29fd94,9229.35,2026-05-01 14:41:25.484898,"Williams, Garcia and Ferguson",NG,withdrawal
+2146c486-11c,b7f653f2,16179.44,2026-05-06 18:04:25.484898,"Wilcox, Martin and Lam",GB,transfer
+9690e8f2-9f8,ff0e5791,24185.14,2026-05-20 23:21:25.484898,Cain-Baxter,CN,transfer
+5bcf59b8-3cc,8107a9f3,15021.19,2026-05-08 19:22:25.484898,Gamble Group,RU,deposit
+12e93fde-ac9,9bcf2fcf,14405.82,2026-05-11 09:36:25.484898,Barrett PLC,CN,deposit
+b4b26aa6-b77,3bf52467,13111.0,2026-05-17 10:37:25.484898,Hernandez-Price,BR,transfer
+16054920-78d,71720a02,22994.49,2026-05-25 00:08:25.484898,"Weaver, Watkins and Woods",GB,transfer
+7817f859-076,0ca0b85a,3096.99,2026-05-23 08:30:25.484898,Hampton-King,RU,withdrawal
+7f59a1e1-84b,33d4aa87,1842.42,2026-05-13 02:19:25.484898,Henderson-Beltran,US,deposit
+18ff60e2-e65,4d8403e0,7246.06,2026-05-24 18:40:25.484898,"Barajas, Reyes and Olson",CN,deposit
+52a1f0cc-323,e506d5b3,24090.0,2026-05-17 22:09:25.484898,"Paul, Green and Hanson",RU,deposit
+4ec15aa2-d20,a756b6b4,1873.35,2026-05-03 22:28:25.484898,"Bell, Wiggins and Robbins",US,withdrawal
+66bead2c-bd8,e7d4cf39,7566.85,2026-05-25 17:54:25.484898,Ward Group,BR,transfer
+2cb56d92-771,8812ed00,5120.14,2026-05-12 18:02:25.484898,Garza Inc,CN,withdrawal
+6dc436b9-cdc,6e3dcae3,24834.67,2026-05-20 06:55:25.484898,Olsen and Sons,US,deposit
+99bac211-b61,2595a42c,9027.51,2026-05-25 17:25:25.484898,"Kline, Sosa and Matthews",CN,withdrawal
+cf6917c8-4af,ac8cd7bb,7223.62,2026-05-26 18:26:25.484898,Griffin-Johnston,GB,withdrawal
+6ae26d1b-1c4,26859312,18888.24,2026-05-10 03:44:25.484898,Wilkinson Group,CN,deposit
+682a20d0-08d,701d7b54,12132.27,2026-05-03 18:18:25.484898,Moore-Pollard,NG,withdrawal
+651fbebe-52b,33386fd4,12259.13,2026-04-28 06:21:25.484898,Vaughan-Jimenez,BR,withdrawal
+284b9118-4f9,2c590fde,20639.48,2026-05-08 15:20:25.484898,"Baldwin, Chavez and Bryant",BR,deposit
+336aefbd-c36,4dabfea0,20584.78,2026-05-15 07:33:25.484898,Cortez and Sons,RU,transfer
+eca1693b-52c,37c4f436,7504.49,2026-05-03 20:48:25.484898,Mcdonald-Massey,RU,transfer
+4533c1f7-8ee,5670329d,4251.91,2026-05-02 23:05:25.484898,Montes-Greene,RU,transfer
+b8db4221-194,1e2f434d,14393.78,2026-05-16 00:47:25.484898,"Garcia, Myers and Serrano",NG,deposit
+cbaf94ef-29e,1daafa43,17479.08,2026-05-11 04:07:25.484898,"Forbes, Nichols and Roach",CN,transfer
+4fc6c767-c2b,aec9e23c,4915.5,2026-05-09 16:32:25.484898,Hickman-Joseph,BR,withdrawal
+13aa5677-93b,fe81e317,1549.73,2026-05-03 06:36:25.484898,White-Holloway,GB,deposit
+d8b1941f-0c9,0b5244ce,20743.15,2026-05-11 11:41:25.484898,"Anderson, Alexander and Garcia",US,transfer
+6dbcee73-ec9,e603fd23,6261.67,2026-05-05 04:35:25.484898,Hardy Inc,CN,deposit
+cd8848ea-f64,6b8e07ad,20158.59,2026-05-01 07:43:25.484898,Wilcox-Parks,RU,transfer
+06ae34fe-e98,072883ae,24689.73,2026-05-14 21:08:25.484898,Stewart-Hancock,RU,deposit
+b6bfb7d3-5ad,bdfa0b0c,1512.21,2026-05-12 21:48:25.484898,"Holland, Chang and Graham",US,withdrawal
+b930e1fe-e99,2f409dfa,20184.79,2026-05-14 12:16:25.484898,"Hayes, Turner and Pennington",CN,transfer
+12060ddd-701,dcf0e006,2614.27,2026-05-05 22:22:25.484898,Hood and Sons,RU,withdrawal
+256eb672-992,a4750eee,24369.98,2026-04-30 03:00:25.484898,"Austin, Stewart and Warner",CN,withdrawal
+655c0d87-592,62f2416b,14229.64,2026-05-26 14:41:25.484898,Burns Ltd,BR,withdrawal
+a9f54e05-013,566d2200,16916.86,2026-05-22 01:06:25.484898,Johnson and Sons,GB,withdrawal
+dc394820-a79,73f0a604,11975.17,2026-04-28 04:14:25.484898,"Miles, Stark and Harris",CN,withdrawal
+459752db-7a3,badf68c7,14365.38,2026-04-29 13:22:25.484898,"Padilla, Cox and Morgan",NG,deposit
+191121a7-310,11505b1c,3103.19,2026-05-24 10:47:25.484898,Howard-Pineda,RU,deposit
+8cfad46a-4d1,4206e702,20416.16,2026-05-03 16:42:25.484898,Henry PLC,NG,transfer
+e7ef4b3c-a8d,8961b2bc,2062.65,2026-05-01 21:48:25.484898,Keith-Phillips,GB,transfer
+4baeed95-b53,27d35d2b,19759.09,2026-05-13 12:38:25.484898,Anderson Ltd,RU,transfer
+f4735b17-2f4,6726cb54,14984.46,2026-05-20 00:08:25.484898,"Cannon, Hunter and Tate",US,deposit
+0bf887e9-b11,32ee3177,11747.17,2026-04-29 06:12:25.484898,"King, Rivers and Wilson",US,transfer
+c3c6fcc0-98f,18eecbba,14866.34,2026-05-03 13:31:25.484898,Rivera PLC,RU,withdrawal
+d0e54921-dce,86af24ad,14326.94,2026-05-01 16:09:25.484898,Perry-Stone,BR,deposit
+abe24496-6d0,931fb7c9,20544.77,2026-05-17 19:06:25.484898,Wilkerson-Cooper,NG,transfer
+ebf72828-c29,45d4ab20,2243.58,2026-05-21 00:56:25.484898,Murray PLC,US,transfer
+1645d71f-1a4,c85c094a,18971.95,2026-05-26 15:35:25.484898,"Gibbs, Rodriguez and Orr",NG,deposit
+97d945d3-ec0,1daee3a2,15149.2,2026-05-11 09:13:25.484898,Wilson Ltd,CN,transfer
+e7027579-c7d,3908f1e7,21554.76,2026-05-21 14:02:25.484898,"Ibarra, Fisher and Mckenzie",NG,deposit
+27fd3f3e-125,c7f947ff,15858.41,2026-04-28 00:08:25.484898,"Harris, Lopez and Brown",NG,withdrawal
+0f3166a8-56e,bb8086ee,13931.68,2026-05-21 17:50:25.484898,"Williams, Johnson and Copeland",BR,transfer
+19d4ec19-121,1c7fa242,5238.06,2026-05-21 05:14:25.484898,Evans Group,CN,transfer
+4361bcce-343,ffbcb0e7,14683.96,2026-05-26 02:28:25.484898,Garcia-Howe,US,withdrawal
+68d4e932-64b,a9b22f00,10129.91,2026-05-10 18:18:25.484898,Thomas LLC,BR,withdrawal
+473f2211-057,d8d5bdd3,13325.77,2026-05-12 00:17:25.484898,"Barnes, Pierce and Butler",RU,deposit
+f20d73df-7bd,bf1100b4,18523.46,2026-04-29 03:47:25.484898,Collins-Weber,US,deposit
+d12a41a7-a05,269ac6de,2910.23,2026-05-08 06:09:25.484898,Ewing Inc,RU,transfer
+5dd0b3a3-192,9af69ef8,11915.1,2026-05-06 02:48:25.484898,Petersen-Silva,US,withdrawal
+cdf24c53-1d6,33c57d98,11886.52,2026-05-10 23:53:25.484898,Brown LLC,NG,withdrawal
+0845fc97-fa0,c44b9071,605.58,2026-05-14 21:09:25.484898,Miller Group,RU,transfer
+fe448d7d-45f,4f61f701,22681.44,2026-05-25 13:29:25.484898,Velez-Harris,NG,deposit
+cb2d5246-1e6,8519e9a4,6573.64,2026-05-20 06:25:25.484898,Brock PLC,RU,transfer
+83818079-d3b,9cc5550c,13425.57,2026-05-11 13:54:25.484898,Lewis Group,BR,deposit
+5a904ec8-971,a3080f7e,17799.39,2026-05-15 19:12:25.484898,Graham Ltd,GB,withdrawal
+a735d143-ff6,19a65ec3,3928.78,2026-05-12 15:40:25.484898,Carey-Barber,BR,transfer
+5c340576-b99,1b9ce4dc,11599.76,2026-05-11 02:50:25.484898,Chavez Group,RU,withdrawal
+df8b57a3-568,ee706a80,6763.1,2026-05-15 07:54:25.484898,"Bates, Welch and Johnson",RU,transfer
+efb6c9cc-b9a,2a192168,18370.44,2026-05-12 00:06:25.484898,Spencer and Sons,CN,deposit
+214ae818-a6d,af5e05b8,6042.02,2026-05-21 19:40:25.484898,Delgado-Kelly,BR,transfer
+389eab4c-940,1533ccf1,9662.81,2026-05-08 06:44:25.484898,Miller and Sons,BR,transfer
+a86b903c-760,412e19aa,1003.77,2026-05-12 09:06:25.484898,Thomas-Jones,NG,deposit
+33de575c-039,7e3f37b4,18018.06,2026-05-11 02:57:25.484898,Matthews LLC,BR,deposit
+7241618c-c67,70f18ed4,12761.0,2026-05-26 14:56:25.484898,"Rodriguez, Perez and Hammond",GB,withdrawal
+2180bb08-561,432df37b,4344.54,2026-05-09 04:13:25.484898,"Cain, Taylor and Swanson",RU,withdrawal
+f122c7ec-ce6,c3bdd54b,7000.76,2026-05-02 03:24:25.484898,Thomas LLC,GB,transfer
+8db05452-98e,1a06c904,16199.39,2026-05-08 07:54:25.484898,Black Ltd,NG,deposit
+a003c569-3bd,7eb008ba,20865.04,2026-05-08 16:57:25.484898,Butler-Cortez,NG,deposit
+0e390a7b-f38,de9ee0d9,7627.9,2026-05-02 17:37:25.484898,Fuller-Hart,NG,withdrawal
+13985142-cd9,28544c50,12000.35,2026-05-16 12:32:25.484898,Mills Group,CN,deposit
+0aa2022c-40e,2d184cca,15822.46,2026-05-05 02:19:25.484898,Jones LLC,US,transfer
+9acffe9a-72c,6e173214,14036.78,2026-05-26 04:16:25.484898,Atkinson LLC,NG,transfer
+02ad7ce8-540,406677a2,5282.17,2026-05-01 00:53:25.484898,Adams Inc,RU,withdrawal
+27f5c3bd-c0c,786c41f1,22554.34,2026-05-14 03:14:25.484898,"Hardin, Li and Myers",RU,withdrawal
+b4af5e70-a44,615ee84c,7129.48,2026-05-19 00:47:25.484898,Rubio-Brown,RU,transfer
+d2d22e5e-ce3,d3764e0b,16492.26,2026-05-09 11:42:25.484898,Mahoney-Mckay,GB,withdrawal
+31c47bc9-ab6,d270af10,16699.25,2026-05-22 05:20:25.484898,Hughes Ltd,RU,deposit
+dc68de44-636,96751226,547.72,2026-05-22 05:53:25.484898,Young Inc,US,transfer
+b0ad6241-473,1f252831,18277.25,2026-05-13 14:57:25.484898,White-Brown,US,transfer
+6b33a6e0-b41,ee9e916a,15698.92,2026-05-10 18:57:25.484898,"Thomas, Kramer and Hughes",GB,transfer
+19b2c80a-df1,04b726d1,2067.11,2026-05-22 02:41:25.484898,Baker-Parker,BR,deposit
+7b2c5482-291,58e67c43,10087.47,2026-05-13 11:58:25.484898,Hill and Sons,NG,transfer
+15661b85-61e,3676089e,16329.75,2026-05-09 16:00:25.484898,Higgins PLC,NG,transfer
+ecf24582-19c,997b9505,22175.95,2026-05-06 00:02:25.484898,Schroeder and Sons,CN,transfer
+5c0697ef-ffa,c51d1b85,15403.61,2026-05-13 00:10:25.484898,Lewis and Sons,CN,transfer
+b371cc8d-efa,19dab450,6551.29,2026-05-13 23:57:25.484898,"Beasley, Nielsen and Rodriguez",GB,withdrawal
+40602e7e-bf3,6a7b0d5a,8436.71,2026-05-14 01:06:25.484898,Howard-Powell,RU,deposit
+16d38523-02c,756b7b06,6514.98,2026-05-24 08:09:25.484898,"Sherman, Harris and Stewart",CN,deposit
+79032e5b-608,f83542ee,10083.11,2026-05-18 15:13:25.484898,Hamilton Inc,GB,deposit
+074cc1b1-5f7,18b9e7bd,17681.36,2026-05-17 22:19:25.484898,Mckay-Aguilar,CN,deposit
+b90f4229-054,3ead6a65,3502.22,2026-05-03 15:38:25.484898,Horn-Barker,NG,deposit
+d9e42a99-dfe,eaaf5a80,17807.26,2026-05-22 12:31:25.484898,Yu-Adams,CN,deposit
+72902510-3b5,cec16bf2,24371.53,2026-05-22 13:26:25.484898,"Rivera, Mitchell and Rodriguez",BR,deposit
+e29bb8fe-ab5,9b031c67,15109.03,2026-05-10 05:39:25.484898,"Lee, Palmer and Martinez",CN,transfer
+7978aa93-1aa,6f748051,7232.28,2026-05-17 02:56:25.484898,Johnson Ltd,GB,withdrawal
+6ad09cb4-cea,4bd7e687,24718.61,2026-05-12 18:12:25.484898,Murillo-Moon,US,deposit
+054cb00e-787,81e533fa,10091.46,2026-05-16 13:44:25.484898,Bradford Ltd,RU,deposit
+af55aa6a-1f1,ddda2724,1322.42,2026-05-22 05:41:25.484898,Jensen LLC,RU,deposit
+335583d6-b02,0e1088ba,5239.22,2026-05-19 09:16:25.484898,Parks-Mccann,CN,transfer
+30703636-62f,964a35c1,19597.01,2026-04-28 14:07:25.484898,Reese-Cook,US,transfer
+bc388e33-20c,13ee30fb,2287.24,2026-05-24 23:37:25.484898,Case-Whitaker,RU,deposit
+876164c0-f32,59c4c8a1,3406.09,2026-05-26 15:13:25.484898,Vega-Wallace,BR,withdrawal
+649f66a4-870,391a6427,2851.13,2026-05-13 17:46:25.484898,Anderson-Patterson,GB,deposit
+d89fc039-a8e,ad0114ab,18749.24,2026-04-28 17:31:25.484898,English PLC,BR,transfer
+99f98bd1-340,52177567,12697.68,2026-04-30 14:34:25.484898,Bush PLC,GB,deposit
+41f7f238-97e,6e2e47b1,22657.71,2026-05-21 05:14:25.484898,Wilson Group,CN,transfer
+ffa70435-a8c,e0b1e421,7833.6,2026-05-19 14:44:25.484898,"Waters, Hubbard and Hall",BR,transfer
+3ccf1ba5-57f,e879af56,21020.29,2026-05-10 16:06:25.484898,Mercer-Taylor,NG,transfer
+40a0a6de-3a4,a54831da,20130.03,2026-05-11 08:37:25.484898,Smith and Sons,BR,transfer
+79b843c4-03f,355b750b,16955.01,2026-05-09 18:45:25.484898,"Smith, Robertson and Clay",US,withdrawal
+39512809-4b9,b3db3acb,12020.56,2026-05-25 06:50:25.484898,Flores-Browning,NG,withdrawal
+b0b2344d-61a,230d5fc5,12078.46,2026-05-05 23:06:25.484898,Barnes-Bullock,RU,withdrawal
+1365600f-d12,79f4b3e6,268.44,2026-05-19 22:01:25.484898,Farley-Castro,NG,deposit
+e193c3ea-4b6,ec95045b,15312.23,2026-05-02 18:22:25.484898,Pacheco Group,CN,withdrawal
+e07feb87-e52,644d4943,20875.13,2026-05-21 01:52:25.484898,Hill-Foster,US,withdrawal
+38b1dfa0-845,093aa4d4,9100.69,2026-05-11 15:58:25.484898,Williams Ltd,CN,withdrawal
+4912df44-dcd,efbc248b,16391.09,2026-05-21 22:31:25.484898,"Cook, Petersen and Ortiz",CN,deposit
+423c503b-5f4,2116437e,16630.99,2026-04-27 16:06:25.484898,"Soto, Smith and Parker",RU,transfer
+c5fd1613-9f7,2484890d,20630.13,2026-05-14 20:38:25.484898,Ferguson LLC,US,transfer
+e3c48773-66c,ff027a2f,9380.89,2026-05-12 21:38:25.484898,"Leon, Long and Lee",CN,deposit
+582d2a3e-ba5,21d253b8,5262.1,2026-05-09 17:03:25.484898,"Taylor, Wells and Johnson",CN,withdrawal
+49e43781-5e6,d125c227,16642.31,2026-05-27 09:58:25.484898,Wong-Smith,NG,deposit
+d39b91b5-569,617f62f5,6468.21,2026-05-24 22:04:25.484898,"Lawson, Castro and Savage",RU,withdrawal
+5f1bf63b-4af,e706a7f6,22786.99,2026-05-06 07:50:25.484898,Perez and Sons,US,withdrawal
+a6f76591-f4e,85272e88,13694.09,2026-05-16 14:51:25.484898,"Collins, Owens and Davis",NG,deposit
+396f71ac-e15,fbee013c,23813.27,2026-05-20 07:47:25.484898,"Williams, Salinas and Moore",NG,transfer
+dafdab66-64d,b95739e5,21223.83,2026-05-13 08:28:25.484898,Chase-Garcia,RU,withdrawal
+1be5b202-b4b,448181e6,21966.35,2026-05-25 16:19:25.484898,Randall LLC,CN,deposit
+75976462-1ab,c5562cb7,13526.26,2026-05-22 22:04:25.484898,Chavez-King,GB,deposit
+82696819-e5b,dd0ea7c6,23989.57,2026-05-05 23:20:25.484898,"Dalton, Young and Nelson",GB,withdrawal
+d231e622-5f1,4fb9117b,3981.61,2026-05-26 07:56:25.484898,Atkinson and Sons,GB,withdrawal
+68b70374-b1e,d3aa595c,6969.14,2026-05-13 05:05:25.484898,Smith Inc,NG,withdrawal
+112571de-988,069c4e5f,9146.37,2026-05-05 08:53:25.484898,Reynolds PLC,BR,withdrawal
+00e92d17-d21,2e664dbb,1575.35,2026-05-07 22:27:25.484898,"Ross, Schroeder and Powers",NG,transfer
+7f645e4c-b96,50824157,1064.08,2026-05-20 03:40:25.484898,Jackson LLC,US,deposit
+787403ec-712,38b34702,14455.3,2026-05-07 17:23:25.484898,Johnson Inc,CN,withdrawal
+7b7dd6ab-c0b,117e95ad,15933.71,2026-05-05 05:41:25.484898,"Herman, Davis and Cunningham",CN,withdrawal
+c22ba7bb-618,1b9975fe,8791.01,2026-05-21 02:09:25.484898,"Gallegos, Waters and Thompson",NG,withdrawal
+f3e97604-347,db9b55dd,3105.69,2026-05-04 18:31:25.484898,Martinez PLC,GB,withdrawal
+f372d1d4-89d,74413721,23829.34,2026-05-09 16:13:25.484898,"Richardson, Sanders and Johnson",US,withdrawal
+fdf81489-f63,a6458049,17003.84,2026-05-12 04:33:25.484898,Carter-Mccoy,NG,transfer
+875c5360-ee6,88b0d0b3,24742.61,2026-05-19 17:11:25.484898,"Savage, Butler and Lane",BR,deposit
+6a0342ce-b20,7a2497df,23973.79,2026-05-10 03:40:25.484898,Reed-Cain,US,withdrawal
+0fbbac66-59f,276f9d44,2624.24,2026-04-28 23:06:25.484898,Beck-Roberts,RU,transfer
+ebe5e98a-612,b2f9940f,6843.93,2026-04-27 17:15:25.484898,"Price, Wilkinson and Lee",GB,withdrawal
+ec24a09f-b52,310edbef,22533.27,2026-05-11 22:58:25.484898,Mckinney-Thomas,GB,withdrawal
+b744416a-094,7ef8d8c4,3971.66,2026-05-26 03:41:25.484898,"Lester, Jenkins and Stevens",NG,deposit
+90a1bdd4-4dd,8f36f1e8,21617.67,2026-04-29 22:02:25.484898,"Johnson, Evans and Marks",BR,transfer
+4f3ba5d6-3fe,7bc48628,2174.6,2026-05-26 13:47:25.484898,Klein Inc,BR,transfer
+ebfbff27-eaf,10ba98ac,8852.45,2026-05-13 15:19:25.484898,"Mason, Perry and Brown",US,withdrawal
+a96b725a-11f,91b6ca3a,1067.47,2026-05-10 13:52:25.484898,Valencia-Vasquez,BR,transfer
+e1b757bd-657,838b362d,17283.39,2026-05-19 18:29:25.484898,Romero PLC,NG,transfer
+700ab79e-033,20b2fdad,481.54,2026-05-26 06:02:25.484898,Marshall-Richard,RU,transfer
+884c8ea4-90a,beb20bbd,6324.91,2026-05-15 00:33:25.484898,Flores PLC,BR,withdrawal
+e281616e-02e,85907b21,9323.58,2026-05-21 12:36:25.484898,Norton Group,BR,transfer
+0c96fbd3-0fe,5a48d48b,14216.06,2026-05-04 21:47:25.484898,"Brown, Ritter and Carrillo",US,withdrawal
+fb2cb477-dcc,5ca4b4a1,1505.53,2026-05-20 10:59:25.484898,Bowman-Campbell,NG,deposit
+3dc802cf-7bf,e1820f46,10807.43,2026-05-19 19:33:25.484898,"Mccormick, Butler and Camacho",NG,withdrawal
+e4fd7734-afa,225db557,17364.89,2026-05-03 02:21:25.484898,Long-Acevedo,BR,deposit
+255b3e9b-f74,c7a5418a,23246.06,2026-05-10 00:30:25.484898,Bates LLC,NG,withdrawal
+eb741838-8e3,a96fd5ac,20504.78,2026-05-15 06:55:25.484898,Bryant Ltd,BR,withdrawal
+8f9faa41-d15,888e7c60,7488.94,2026-05-19 21:49:25.484898,Price-Price,US,withdrawal
+583bd42b-162,de5eaa2c,79.48,2026-04-28 17:26:25.484898,Rodriguez and Sons,CN,withdrawal
+508e9915-aa9,cbc2814f,8426.79,2026-05-17 14:43:25.484898,Sanchez LLC,CN,transfer
+c4e22a19-bd6,cbd6c48e,7753.54,2026-04-30 15:30:25.484898,Alvarez-Johnson,BR,transfer
+9b265b1d-733,f2fd19c2,6248.61,2026-05-12 21:58:25.484898,"Morgan, Wright and Ford",US,withdrawal
+68596423-36f,9561e951,19472.37,2026-05-16 18:44:25.484898,"Calhoun, Gordon and Cruz",BR,withdrawal
+a740c765-462,b74a41b0,22625.27,2026-05-10 18:26:25.484898,"Wells, Lawrence and Garcia",BR,transfer
+8d035513-6ad,bca7e92e,24454.19,2026-05-12 05:53:25.484898,Moore Inc,CN,transfer
+02aa8e4f-be2,284d7a32,24432.96,2026-05-08 17:27:25.484898,"Johnson, Griffin and Martinez",NG,deposit
+83283310-38e,78bb74d1,16021.48,2026-04-28 08:46:25.484898,"Hopkins, Benson and Bell",NG,deposit
+70f7eed8-b20,ef9e8807,20125.83,2026-05-18 15:32:25.484898,Marquez-Fletcher,US,withdrawal
+25ff06d9-343,fb3bc64a,1025.65,2026-05-20 03:20:25.484898,Costa Inc,BR,withdrawal
+ba28ec0f-fdc,42d1c11d,20830.38,2026-05-14 10:15:25.484898,Ruiz Inc,BR,transfer
+811e234e-218,6f20a691,15728.61,2026-04-29 05:54:25.484898,Mcgee LLC,RU,transfer
+79f93c04-00d,a92ac038,21403.93,2026-05-01 23:04:25.484898,"Floyd, White and Bowman",CN,withdrawal
+76c50412-744,a2ab3984,12906.12,2026-04-30 18:50:25.484898,"Smith, Benjamin and Flores",RU,transfer
+7b4dced1-88a,c2814059,6935.39,2026-05-08 04:37:25.484898,Daniels-Murray,US,deposit
+23bf8263-e19,2d084774,13092.94,2026-04-27 22:49:25.484898,Davis-Thompson,US,transfer
+df36dc08-10a,21a2f9d0,14944.18,2026-05-04 16:28:25.484898,"Fuentes, Cruz and Aguilar",CN,withdrawal
+1a972893-d36,bb4aae35,635.96,2026-04-27 22:47:25.484898,"May, Taylor and Hopkins",CN,withdrawal
+59721400-fb8,5fe054cf,22526.86,2026-05-24 07:08:25.484898,Wheeler-Hughes,NG,deposit
+2c107cb9-87b,34825922,1129.98,2026-05-22 00:41:25.484898,Thompson-Jordan,US,transfer
+1c8f3af7-94c,a2aaeaa2,7664.12,2026-05-11 09:38:25.484898,"Aguilar, Meadows and Pierce",BR,deposit
+f3769a3e-81d,da976143,5151.64,2026-05-04 07:03:25.484898,Schultz-Griffin,CN,transfer
+5f0da460-75b,763a21ba,1844.05,2026-05-12 04:32:25.484898,"Briggs, Montgomery and Holmes",NG,withdrawal
+629a3269-b1e,2f6a6bbf,12254.45,2026-05-02 13:38:25.484898,"Hill, Patel and Johnson",NG,transfer
+8b698bba-5fe,b2e99be1,1837.02,2026-05-10 05:19:25.484898,Phillips Inc,GB,withdrawal
+dfd0285f-390,7e3ebd81,21579.06,2026-05-10 04:12:25.484898,"Robinson, Hill and Cruz",US,transfer
+dddc709c-7ae,486b257b,17875.11,2026-05-24 07:48:25.484898,"Diaz, Bennett and Ruiz",BR,withdrawal
+4797d102-b31,4f50e65f,13589.14,2026-05-13 22:34:25.484898,Phillips PLC,CN,withdrawal
+b3e6388c-a8b,d445fdc2,9193.72,2026-05-26 21:17:25.484898,Buchanan-Hardy,NG,transfer
+8234231d-a81,b3374243,15445.38,2026-05-14 22:37:25.484898,Black LLC,BR,transfer
+79ec2a8a-c12,60a3d312,2644.01,2026-04-29 22:47:25.484898,Gordon and Sons,RU,withdrawal
+a72dc33e-add,c87ae891,15743.69,2026-05-11 19:49:25.484898,"Walsh, Liu and Love",US,withdrawal
+abbcd3b6-a7b,cb638df6,15127.19,2026-05-09 18:38:25.484898,"Smith, Rodriguez and Rice",CN,transfer
+5df0c51e-8b4,a1d4beac,4144.43,2026-05-04 17:52:25.484898,Madden-Shea,US,transfer
+313e040b-67b,1a4bf124,2883.28,2026-04-28 23:28:25.484898,Villanueva-Livingston,NG,transfer
+f5ee4c54-6ff,85f596db,17068.48,2026-05-01 23:18:25.484898,Taylor PLC,NG,transfer
+be7784eb-fcd,3487dc6d,12130.69,2026-04-29 02:15:25.484898,Thompson and Sons,NG,deposit
+5ef0cf27-04c,615e8413,19519.08,2026-05-02 22:06:25.484898,"Patterson, Davis and Galloway",GB,deposit
+16c7edf5-5b7,e24310fb,15883.28,2026-05-11 07:03:25.484898,Malone and Sons,RU,transfer
+4877bf45-ca3,6acf4f90,18093.6,2026-05-03 21:14:25.484898,Jones-Smith,GB,deposit
+47e22ce4-de2,b9d87a94,1927.08,2026-05-25 03:13:25.484898,Johnson-Wolfe,RU,deposit
+a8060e49-476,3a67c8c4,13784.64,2026-05-12 06:50:25.484898,Weiss PLC,CN,withdrawal
+a8c04bb3-008,f5f9c48c,19411.74,2026-05-26 05:16:25.484898,"Kemp, Alvarez and Gray",US,transfer
+a19fda6b-27b,cbd1a8e0,9680.39,2026-05-16 13:28:25.484898,Wallace PLC,NG,transfer
+b64dd62d-078,e3407b1b,4483.59,2026-05-18 13:36:25.484898,Smith LLC,CN,withdrawal
+21cba72b-9ad,ff174dd7,741.35,2026-05-12 12:44:25.484898,Lewis Inc,US,withdrawal
+020d76dd-995,1e3fe655,754.03,2026-05-10 04:15:25.484898,Mcdonald-Smith,CN,transfer
+dbb1d0f8-faa,759131ff,19372.0,2026-05-20 10:06:25.484898,Gonzalez-Salas,BR,withdrawal
+4fdd3cf2-398,01053f47,12055.66,2026-05-12 01:23:25.484898,Day Group,RU,transfer
+88ff311e-9a4,9271e75f,18654.89,2026-05-16 12:15:25.484898,"Nelson, Marsh and Rodriguez",RU,withdrawal
+effb2510-db9,ff6bad19,22561.44,2026-05-23 23:57:25.484898,Clark Group,US,transfer
+cf909772-061,7c6933bb,10193.42,2026-05-08 20:25:25.484898,"Griffith, Gibbs and Rodriguez",US,withdrawal
+a9d6230d-2ae,660fb459,2849.72,2026-05-16 15:19:25.484898,Shelton-Reynolds,CN,transfer
+ff746d39-583,0e867faa,13051.42,2026-05-03 12:53:25.484898,Smith-Gibbs,NG,deposit
+b06a0404-6ef,49c29a36,3264.34,2026-05-01 18:05:25.484898,"Paul, Stewart and Braun",US,deposit
+96b2f2ff-2e8,225e6868,10506.72,2026-05-11 22:13:25.484898,Walker-Roberts,US,deposit
+35948212-926,734d623e,22931.24,2026-05-12 18:34:25.484898,Wells and Sons,RU,deposit
+3f120214-452,5e7fdf13,8918.17,2026-05-24 17:51:25.484898,Payne-Barajas,GB,withdrawal
+1d66fe77-936,d9cc1c84,10226.27,2026-05-19 07:16:25.484898,"Brown, Brown and Garcia",CN,withdrawal
+76f2611a-136,fd3f09a6,11731.26,2026-05-26 15:49:25.484898,Kelly-Castillo,CN,transfer
+89bac539-23e,095f53fb,6404.02,2026-05-06 06:20:25.484898,Hall LLC,RU,withdrawal
+ec4de602-9ae,d7480146,8493.01,2026-05-20 07:20:25.484898,"Le, Anderson and Hudson",GB,deposit
+9c96b935-311,0772addd,10223.43,2026-05-04 00:29:25.484898,"Vega, Hill and Jimenez",GB,transfer
+421e760d-29b,336b7d11,24271.38,2026-05-22 16:35:25.484898,Cross and Sons,CN,transfer
+2fcf2ced-839,a7449273,11968.54,2026-05-23 06:59:25.484898,Flowers-Montgomery,GB,transfer
+22188d43-91b,e6ac7b88,13067.33,2026-05-12 21:46:25.484898,Reyes-Brown,NG,withdrawal
+903faa48-4cc,e371b24e,3526.33,2026-05-03 09:27:25.484898,Flores-Smith,RU,deposit
+87ae1df9-80f,56bf3141,6104.15,2026-05-17 17:13:25.484898,Snow-Johnson,US,deposit
+01d34cb9-e22,bddaf451,13704.39,2026-05-05 21:29:25.484898,Mann-Weaver,RU,withdrawal
+ab161b42-43e,94ddebbf,15561.25,2026-05-21 10:59:25.484898,Williams-Tate,NG,transfer
+f9cff1aa-698,3f744e82,19857.85,2026-04-29 21:31:25.484898,Farley LLC,GB,withdrawal
+07d550f4-8e2,a89768e7,13041.28,2026-05-07 22:57:25.484898,Johnson Inc,NG,transfer
+e6d12bc6-e5c,54e9f126,17200.09,2026-05-23 02:10:25.484898,Adams-Cook,GB,deposit
+eb474d85-d66,3a34bd55,10460.25,2026-05-01 18:05:25.484898,Wallace-Haynes,US,transfer
+dc3195c4-aef,eb3aea0a,15345.54,2026-05-27 02:34:25.484898,Hunt-Gray,RU,transfer
+8465a4e3-849,ebdcbcbf,17401.52,2026-05-24 01:08:25.484898,Diaz-Moore,GB,transfer
+2c7fa020-72a,11718439,20694.5,2026-05-23 21:30:25.484898,Alvarez and Sons,GB,withdrawal
+f8fd866f-e55,e1e9fc59,24273.83,2026-05-17 10:55:25.484898,"Williams, Rodriguez and Martin",CN,deposit
+33a5ea5c-6de,9c1bbe3e,16427.25,2026-05-25 23:14:25.484898,Moreno-Brewer,BR,withdrawal
+1bc2e3ad-669,e72ddee2,15831.04,2026-05-26 08:23:25.484898,Watson-Henderson,BR,deposit
+871d8796-5df,b39063ec,18140.04,2026-05-21 21:20:25.484898,Powell LLC,BR,transfer
+9b8e798d-496,c1967e89,18861.76,2026-05-02 22:49:25.484898,"Buckley, Brown and Savage",GB,deposit
+32330e1f-b55,6325a7c1,18728.9,2026-05-14 17:13:25.484898,Smith-Maxwell,RU,deposit
+f9177997-d0b,38f4e3e6,16597.38,2026-05-18 11:58:25.484898,Daniels Ltd,NG,deposit
+be402c3e-f63,80c36063,10009.17,2026-05-03 06:25:25.484898,Contreras LLC,RU,transfer
+c85fd636-308,360582db,24848.07,2026-05-16 19:03:25.484898,Richards-Buckley,NG,transfer
+2b8d316f-dee,cc160a8b,21444.97,2026-05-18 05:25:25.484898,Li-Coleman,US,transfer
+4881d3cb-2cf,1351abe9,21557.71,2026-05-07 12:12:25.484898,"Cooper, Hernandez and Martinez",US,withdrawal
+a299569a-e3c,9eedaa75,19400.43,2026-05-02 18:29:25.484898,"Brewer, Newton and Chambers",US,deposit
+08f356c1-129,1ae93fa7,18067.5,2026-05-18 08:44:25.484898,Gray-Alvarado,RU,deposit
+e38dd4a0-4a3,c3b7261f,20306.1,2026-05-15 01:08:25.484898,"Lopez, Barrett and Jones",CN,withdrawal
+c623ad52-0c9,53c0ecef,20814.42,2026-05-12 06:45:25.484898,Reeves-Banks,GB,withdrawal
+4473f817-222,0f9788f0,22824.45,2026-05-10 15:28:25.484898,"Williams, Allen and Curry",GB,withdrawal
+77bcc560-093,62c1b42d,23930.09,2026-05-02 09:22:25.484898,Miller PLC,CN,deposit
+cf114c1c-7bb,799d2937,5689.21,2026-04-29 04:35:25.484898,Tucker and Sons,RU,withdrawal
+af5d0089-3f1,44451412,3038.55,2026-04-28 19:52:25.484898,"Velasquez, Thomas and Fisher",US,transfer
+9ef6a679-47c,4fd3aea5,795.06,2026-04-30 20:35:25.484898,Harris-King,CN,withdrawal
+8b56f218-a66,a0019416,15972.34,2026-05-09 07:04:25.484898,Blake-Dennis,RU,transfer
+6066aae7-f13,d1af1da9,6120.62,2026-05-23 07:17:25.484898,Armstrong-Underwood,US,transfer
+8fcada2c-8bd,2a5d6fb8,20573.38,2026-05-25 04:02:25.484898,Johnson Group,BR,transfer
+d34aaddc-f61,4814703f,17339.39,2026-05-11 16:35:25.484898,Rodriguez-Sandoval,BR,transfer
+cc64035b-ba0,95becd4d,20363.64,2026-05-15 23:12:25.484898,Clark Group,US,transfer
+99b54fb4-e32,a389dc7f,13617.69,2026-05-03 18:47:25.484898,Sullivan PLC,BR,withdrawal
+9aa2e2e2-986,fdce2e6b,7906.37,2026-05-09 15:38:25.484898,"Hernandez, Park and Parsons",GB,transfer
+79113757-96a,1a2f0aad,15621.61,2026-05-06 15:20:25.484898,"Howell, Bell and Wright",GB,transfer
+5d809497-6ce,46b1a3b9,24978.48,2026-05-19 18:41:25.484898,"Smith, Allison and Turner",NG,transfer
+81c9d121-312,1bae3a55,17287.57,2026-05-09 04:40:25.484898,"Chambers, Olson and Allen",GB,transfer
+1d4da724-6f5,3c4f215f,948.66,2026-05-25 03:33:25.484898,Carter Group,RU,withdrawal
+ef243eba-7ab,3211e5ef,17584.33,2026-05-16 06:16:25.484898,Ruiz-Kramer,CN,transfer
+afe054ca-2a4,33e9acb7,10722.08,2026-05-03 11:34:25.484898,"Thompson, Frost and Valdez",CN,deposit
+154c194c-a1b,dce0b198,9162.29,2026-05-19 23:09:25.484898,Patterson and Sons,US,deposit
+9f3562f7-817,e9e40574,5782.52,2026-05-05 01:37:25.484898,Pittman Inc,GB,withdrawal
+8d3523fb-a20,01ea4e1f,10368.15,2026-05-02 02:57:25.484898,Harris Group,US,deposit
+52839009-927,fee5894e,8958.02,2026-05-08 02:21:25.484898,Cantu-Davenport,NG,withdrawal
+94db6818-42d,6414a9f4,7689.05,2026-05-19 13:19:25.484898,Page Inc,BR,deposit
+4afdea31-383,e55a8ccb,7918.0,2026-05-14 09:08:25.484898,"Long, Conner and Davis",GB,withdrawal
+1d1ff968-10a,c53c509a,4344.28,2026-05-19 13:04:25.484898,Nguyen Inc,US,transfer
+ea8561be-949,38079b02,23293.38,2026-05-23 03:10:25.484898,Finley-Armstrong,GB,deposit
+09e748d1-c91,6bc78b66,22846.29,2026-04-30 23:55:25.484898,Johnson and Sons,BR,transfer
+aa256f79-9bb,715d66a8,18490.07,2026-05-13 20:37:25.484898,Cole and Sons,NG,deposit
+81e731b4-325,79fb3c8d,18422.04,2026-05-10 18:37:25.484898,Hughes-Jackson,CN,transfer
+bc755439-777,ad2588af,5700.84,2026-05-02 14:30:25.484898,"Mitchell, Best and Sanders",CN,transfer
+eefc4cb3-a0e,14e86c08,5623.89,2026-05-12 09:14:25.484898,"Espinoza, Williams and Erickson",RU,transfer
+f463f24d-574,b25800f4,568.95,2026-05-24 02:08:25.484898,"Wheeler, Allison and Waters",US,withdrawal
+b807d355-4f6,0a892a2e,21137.05,2026-04-29 11:45:25.484898,"Brown, Flores and Richardson",GB,withdrawal
+c4c7012d-746,e6c24608,21245.52,2026-05-26 04:21:25.484898,Gray Group,US,withdrawal
+9a100c00-5fe,61870799,18504.07,2026-05-07 08:33:25.484898,Barnes LLC,US,withdrawal
+312bb6ed-d5d,105ff734,5446.52,2026-05-24 08:43:25.484898,Thompson Inc,GB,transfer
+673e555a-d01,a1551f6f,7558.81,2026-05-04 04:58:25.484898,"Myers, Mahoney and Scott",GB,withdrawal
+07b6983b-5ca,4d373376,11606.51,2026-04-29 02:29:25.484898,Petersen-Cox,GB,deposit
+6c4e850b-e11,e6a6e143,20682.22,2026-05-13 10:08:25.484898,Reese LLC,US,deposit
+725c221b-b73,990d4dc1,12832.33,2026-05-24 12:46:25.484898,Anderson Inc,RU,transfer
+f5ac9847-8e8,c1fad89b,18918.1,2026-05-24 05:27:25.484898,Brooks-Ryan,GB,deposit
+471a97eb-f40,b0148a75,9931.9,2026-05-02 01:57:25.484898,Bell and Sons,NG,withdrawal
+c743253d-22f,20712870,9146.82,2026-05-23 15:32:25.484898,Thompson-Moore,RU,withdrawal
+545b5273-e23,c853920e,16374.78,2026-05-17 13:30:25.484898,"Bridges, Hoover and Walters",CN,transfer
+3cf14497-395,286dbed8,23068.99,2026-05-23 21:29:25.484898,"Thompson, Terrell and Perez",US,transfer
+c0111303-1f1,f953d8f0,13512.81,2026-04-27 22:39:25.484898,"Riddle, Cruz and Mckee",BR,deposit
+60f40a3e-282,b7c73bb8,12832.7,2026-04-28 04:13:25.484898,Crawford-Powell,US,transfer
+206895b8-8fd,2b59e276,10769.45,2026-05-04 19:45:25.484898,Rivera-Sharp,CN,transfer
+4f78c8ad-3d5,b80a737b,7820.21,2026-05-21 10:09:25.484898,"Oconnell, Goodwin and Johnson",NG,deposit
+4c325cf9-dad,82e8a2bf,14250.19,2026-05-25 04:07:25.484898,Stewart-Robinson,RU,withdrawal
+7b51cd0c-16c,071d3d7c,23695.03,2026-05-15 04:46:25.484898,Douglas Inc,CN,withdrawal
+26bb51e8-3da,01df9641,18993.12,2026-05-06 21:39:25.484898,"Miller, Berger and Vance",NG,transfer
+06057cad-581,f8d7f378,13428.88,2026-05-26 14:26:25.484898,Yates Inc,US,withdrawal
+e9f46239-2d2,8e02057c,2833.57,2026-05-06 07:42:25.484898,Vega-Mejia,US,transfer
+474291a0-f74,6d4ec747,23191.97,2026-05-14 09:12:25.484898,"Miller, Jones and Wood",RU,withdrawal
+9c05b566-791,028c5a77,4202.03,2026-05-19 11:14:25.484898,"Washington, Rice and Mckenzie",RU,transfer
+17ba9bd6-f72,d15386ff,18187.36,2026-05-24 03:02:25.484898,Herring-Wilson,RU,deposit
+a2c9d409-ebe,166cb06f,23923.68,2026-05-12 20:35:25.484898,"Castillo, Bradshaw and Flowers",GB,withdrawal
+532a5114-0cd,f4b7c5c7,9221.4,2026-05-10 20:02:25.484898,Duran-Johnson,NG,transfer
+eb8e9c0d-d13,6018bac6,15713.44,2026-05-05 15:31:25.484898,Lee-Crane,NG,transfer
+e480d021-be4,13e782a4,1035.74,2026-05-07 23:12:25.484898,Lewis Ltd,BR,transfer
+684c8e1c-af5,e737a189,18540.11,2026-04-28 13:36:25.484898,"Moore, Fields and Sullivan",CN,deposit
+dbba58bd-b1f,2ad966f3,529.92,2026-05-19 13:23:25.484898,Murphy and Sons,BR,transfer
+204f7961-f90,2f66e370,2064.54,2026-05-10 06:52:25.484898,Lloyd-Johnson,RU,transfer
+d3720451-22b,b1b74e32,21499.76,2026-05-04 07:24:25.484898,Shelton-Hurley,BR,deposit
+43d2a465-c2f,67201fa5,22022.65,2026-05-27 05:09:25.484898,"Escobar, Quinn and James",BR,withdrawal
+5603835f-f10,bbc97170,15878.08,2026-05-18 21:57:25.484898,Roberts-Macdonald,CN,transfer
+12350b16-6fb,067e012f,22365.64,2026-05-15 05:53:25.484898,Cooper-Valdez,RU,transfer
+5caf0f1d-207,8764f87c,22635.08,2026-05-21 03:12:25.484898,"Sanchez, Simpson and Reed",NG,transfer
+a89bd665-dd9,1163e015,59.07,2026-05-18 09:13:25.484898,"Rogers, Nolan and Hawkins",BR,transfer
+513a3f74-1da,bc715241,13547.64,2026-05-26 09:17:25.484898,Webb LLC,CN,transfer
+abc392cb-acd,03cf9db8,9055.79,2026-05-09 07:22:25.484898,"Davis, Clark and Marsh",NG,withdrawal
+44c26aca-f6b,7ddf83d0,10070.85,2026-05-17 18:24:25.484898,"Stevens, Manning and Valenzuela",GB,deposit
+149021c8-07c,27a9dd56,11427.54,2026-05-21 17:30:25.484898,"Adams, Garcia and Cooper",NG,deposit
+01eb314b-1ea,aef3c0c5,3224.95,2026-05-19 06:26:25.484898,"Nielsen, Campbell and Diaz",NG,deposit
+26db585c-605,05864b4d,7775.71,2026-05-18 11:54:25.484898,Long-Holland,CN,withdrawal
+e498a23e-cf2,bddd9773,20012.55,2026-04-28 15:18:25.484898,"Rodriguez, Munoz and Rivera",CN,withdrawal
+0bdc18dc-bd7,69f68588,2339.04,2026-05-25 04:15:25.484898,"Guzman, Simon and Harris",NG,deposit
+d8562978-30a,a37a3f3d,14531.24,2026-05-20 21:39:25.484898,"Taylor, Ortega and Romero",RU,transfer
+1eed98be-9c8,80930edd,5494.1,2026-04-30 01:21:25.484898,Townsend-Jenkins,BR,transfer
+3769a260-354,ccbf6b4e,3430.89,2026-05-15 10:25:25.484898,Peterson-Jones,BR,withdrawal
+99e0f1d2-2d9,59cb81c7,20770.07,2026-04-28 23:40:25.484898,"Evans, Dawson and Bryant",NG,withdrawal
+08ebb77d-e1b,a8927892,18599.88,2026-05-09 06:08:25.484898,Ward-Zimmerman,BR,transfer
+80e04d6a-1cf,c247f6de,1012.05,2026-05-24 04:44:25.484898,Humphrey-Jarvis,US,transfer
+ad73189e-170,4a7cf9b0,24971.67,2026-05-22 06:16:25.484898,Smith-Lowe,RU,transfer
+7f5df347-288,26b03e0f,11554.21,2026-05-03 15:50:25.484898,Chan-Foster,US,withdrawal
+0ec866af-a81,ce9bcc75,24024.31,2026-05-01 05:18:25.484898,Cunningham-Bradshaw,CN,transfer
+0294daed-b1a,aee196d2,4469.9,2026-04-30 04:07:25.484898,Singh-Combs,GB,withdrawal
+a5185473-2dd,d6356493,6818.48,2026-05-13 03:17:25.484898,"Ward, Riley and Brown",RU,deposit
+c7aeb813-268,83ec8cac,20926.11,2026-05-25 17:15:25.484898,Oliver-Wallace,NG,deposit
+c5bba9de-b72,0ef61960,19957.43,2026-05-11 05:24:25.484898,Martin PLC,BR,deposit
+6e30d47c-5fa,f4ee97cb,12220.8,2026-05-09 12:55:25.484898,"Silva, Quinn and Frost",CN,transfer
+af9abc08-11f,426a72c7,20924.62,2026-05-25 21:40:25.484898,"Kemp, Duncan and Hanna",US,withdrawal
+0861bdbd-b02,f3e404e6,12083.83,2026-05-03 11:18:25.484898,"Miller, Reese and Conley",NG,transfer
+579b3bb6-427,85effa13,11880.77,2026-05-23 06:08:25.484898,Schneider-Walton,RU,transfer
+a095dcd0-a47,bcc90149,19983.73,2026-05-18 10:37:25.484898,Hensley-Baker,CN,transfer
+62391014-fd7,0e7fb2aa,13352.23,2026-05-05 12:53:25.484898,Sims-Stevenson,US,withdrawal
+9eae9d95-afc,9773ef4d,3033.0,2026-04-28 16:00:25.484898,Arias and Sons,CN,transfer
+81295542-3fa,8998710d,20016.27,2026-04-28 08:46:25.484898,Gray-Rasmussen,CN,deposit
+b25a2e06-3ee,ba5524b9,16402.82,2026-05-17 18:22:25.484898,Singleton PLC,BR,transfer
+174813cc-434,96e57bcc,5607.79,2026-05-08 04:41:25.484898,Mcclure-Garcia,GB,transfer
+bee66f12-ee0,aee2d046,22014.84,2026-05-12 19:48:25.484898,"Hayes, Lewis and Schmidt",US,deposit
+29a58a76-cd0,3964dd5a,17174.68,2026-04-28 11:21:25.484898,"Harrison, Chambers and Gonzales",CN,deposit
+259b3540-53e,160d08d4,4590.22,2026-04-30 12:25:25.484898,Wagner Group,US,transfer
+c39ffceb-3ff,afc57ed4,8255.67,2026-05-24 09:28:25.484898,"Stephenson, Wells and Mendez",BR,withdrawal
+9a294d74-c30,5df26336,19314.16,2026-05-18 20:55:25.484898,Wilson-Reilly,GB,deposit
+4939af62-005,e1478e95,11080.24,2026-04-28 13:38:25.484898,Lewis LLC,US,deposit
+eafa5bbb-cd5,fed5b3ea,9422.45,2026-05-12 21:40:25.484898,Singleton Ltd,BR,deposit
+9e345179-f2d,d6776493,20941.65,2026-05-18 07:04:25.484898,"Jennings, Baldwin and Crane",US,deposit
+44c61550-4ee,76349d2e,14057.17,2026-05-17 00:08:25.484898,Ortiz-Eaton,RU,deposit
+1e494334-d28,7c9cdadb,17428.45,2026-05-04 20:28:25.484898,Herrera and Sons,RU,transfer
+2a035b79-7df,2dcd4526,10908.5,2026-05-06 04:14:25.484898,Martinez Group,NG,transfer
+9edcba56-150,4b032570,7544.66,2026-05-20 08:59:25.484898,Moore and Sons,NG,transfer
+9074f9be-eac,250d5e2b,4426.0,2026-05-23 06:10:25.484898,Reese PLC,RU,transfer
+7e2455b9-f9f,605e7fb1,15109.14,2026-05-17 00:35:25.484898,Ford-Peterson,BR,withdrawal
+54eae51f-c3f,00774e27,15272.66,2026-05-23 00:28:25.484898,Smith-Alvarez,RU,withdrawal
+c1a522ba-43d,66127f56,7609.37,2026-05-03 02:10:25.484898,"Espinoza, Thomas and Jensen",GB,withdrawal
+040718af-706,561f7043,487.25,2026-05-07 05:26:25.484898,"Rodriguez, Glenn and Garcia",NG,deposit
+a35bf5da-7a5,62c4e3e6,2971.66,2026-05-18 10:39:25.484898,Ray-Rice,GB,deposit
+da55b2e5-edf,4a3e2738,21744.1,2026-05-04 22:06:25.484898,Garcia Ltd,US,deposit
+103dcde3-f20,7a80c382,23337.74,2026-05-18 11:09:25.484898,"Young, Harvey and Patel",RU,withdrawal
+67752ff9-af1,f678d2d3,21735.56,2026-05-23 08:20:25.484898,Cunningham-Hill,NG,withdrawal
+d225df86-272,b7d6d6f5,7033.88,2026-05-24 11:45:25.484898,Davis and Sons,GB,withdrawal
+a9af16cc-69c,d040e1a4,12610.76,2026-05-11 13:19:25.484898,"Juarez, Baker and Hall",BR,transfer
+68127a3d-d83,ba239df5,128.56,2026-05-11 23:31:25.484898,"Smith, Sanchez and Ramos",NG,transfer
+6fab1ac0-c0d,1af64a17,18877.28,2026-04-30 22:59:25.484898,"Fox, Pacheco and Robinson",RU,deposit
+bdd5a51c-e9d,2fbc6d29,20848.64,2026-05-16 15:02:25.484898,Bass PLC,CN,deposit
+10de896b-d6c,df7ccd9c,13742.61,2026-05-20 09:34:25.484898,Leonard Inc,CN,transfer
+b251fa99-e07,9cbb4796,20687.42,2026-05-14 08:50:25.484898,Barnes LLC,US,transfer
+0bf9909a-9b8,473a217b,13726.93,2026-05-26 11:48:25.484898,Rivera Ltd,CN,withdrawal
+54e6fe1a-55d,6d8609b1,19329.17,2026-05-02 11:26:25.484898,"Leonard, Donovan and Norman",US,transfer
+b68c8427-44b,b9bff4eb,9343.29,2026-05-22 02:50:25.484898,"Mcdonald, Simmons and Wright",RU,transfer
+c9bc51bc-36d,b31cd496,14686.95,2026-05-05 02:02:25.484898,"Leblanc, Craig and Navarro",GB,deposit
+0eae3396-6b8,9c69948f,3979.34,2026-05-25 17:11:25.484898,"Lewis, Lindsey and Ramirez",RU,transfer
+d26299c8-ff1,cd2e18a7,4438.1,2026-05-13 18:58:25.484898,Baker and Sons,RU,deposit
+69167e6d-5cc,c0ea1da3,16037.17,2026-05-24 23:38:25.484898,Freeman-Fields,RU,deposit
+166931a9-ba3,91284968,21913.0,2026-05-25 15:18:25.484898,Smith-Ray,GB,deposit
+2313664b-64b,d007f326,9249.14,2026-05-03 06:29:25.484898,Pope-Watson,CN,withdrawal
+b2e40a66-50f,3471aea5,24518.59,2026-05-12 06:53:25.484898,Cannon-Cruz,US,deposit
+a414df74-7c8,7bd51c09,24914.13,2026-05-11 22:05:25.484898,"Choi, King and Smith",GB,deposit
+554b4fe7-218,28c07ddc,3688.93,2026-05-08 12:18:25.484898,Wolfe-Sims,CN,withdrawal
+ea585923-865,2e654594,22121.81,2026-05-09 03:53:25.484898,Manning-Joyce,BR,withdrawal
+0ea1b00b-3a4,f226196c,2964.09,2026-05-10 22:01:25.484898,Pennington Inc,BR,transfer
+da3e02d6-b63,c9ccda75,9674.77,2026-05-06 19:07:25.484898,Sutton-Walker,RU,transfer
+91b01be8-c89,8e99a640,2368.69,2026-05-15 22:02:25.484898,Jones Inc,BR,transfer
+849c7d7c-e4f,48e4f44a,20327.63,2026-05-26 07:05:25.484898,"Forbes, Turner and Archer",US,withdrawal
+f70f69c0-905,047b0549,23840.96,2026-05-24 07:47:25.484898,"Patterson, Collins and Graham",US,deposit
+3fcddb51-85f,afc238d4,5158.12,2026-05-11 18:02:25.484898,Martinez-Olson,NG,withdrawal
+b6cdc74b-54e,7cddd233,9498.75,2026-05-15 14:42:25.484898,"Moody, Clayton and Burnett",BR,withdrawal
+0791cddf-ed8,2472b4c0,17471.04,2026-05-21 15:30:25.484898,"Cunningham, Mclean and Conner",BR,withdrawal
+389b76d7-bf1,e31560c3,9182.83,2026-05-05 05:24:25.484898,Krause-Porter,RU,transfer
+d4eb1bb9-aed,f3c6f799,10736.24,2026-05-06 11:05:25.484898,Cummings Ltd,GB,transfer
+ff4077b5-ca7,e7330a71,12785.32,2026-04-27 15:44:25.484898,"Hernandez, Bradley and Moreno",RU,deposit
+9ef1c7bb-aa7,a80df8e5,11119.43,2026-04-30 01:11:25.484898,"Harris, Bean and Campbell",NG,transfer
+cf3dbbf1-2d7,f1b9a5ff,23526.48,2026-05-13 23:17:25.484898,Guerra Inc,RU,withdrawal
+d2fb6b03-5d3,5ca99304,4085.03,2026-05-12 11:03:25.484898,Ford Inc,GB,withdrawal
+7cf79274-242,0bd59755,8754.91,2026-05-07 21:13:25.484898,Griffin-Mitchell,CN,transfer
+01089c06-487,68d2c4b4,6285.2,2026-05-05 22:04:25.484898,Todd-Wright,RU,transfer
+b8743598-ca3,d5a87589,10990.19,2026-05-26 20:55:25.484898,Klein-Thompson,CN,deposit
+e567f344-8fe,ec5d273d,23703.15,2026-05-04 15:38:25.484898,Maddox Group,CN,withdrawal
+db4c7188-4dc,a5044a4a,21756.52,2026-05-19 20:55:25.484898,Hebert-Martin,BR,deposit
+b35ce7c6-571,72a1f6b8,21342.08,2026-05-10 21:16:25.484898,Moyer-Pearson,NG,transfer
+bed8fac8-a56,be743821,19260.35,2026-05-13 12:56:25.484898,Anderson-Hall,BR,withdrawal
+13e1280e-7a9,106cf6ac,14705.86,2026-05-02 18:12:25.484898,Maddox and Sons,NG,deposit
+58af8cec-a9f,b1f8e593,14305.93,2026-05-06 03:29:25.484898,Burns-Phillips,GB,transfer
+0841fcf3-f1d,902603b3,13111.39,2026-05-04 04:53:25.484898,Martin LLC,NG,transfer
+d12112a5-d98,6990bdb5,9727.82,2026-05-03 10:28:25.484898,Martin Group,NG,transfer
+dd88910c-973,2b469085,23559.6,2026-05-26 10:00:25.484898,"Bailey, Mckenzie and Mendoza",US,deposit
+ebdc6e2c-8f9,4e7ab0eb,12479.65,2026-05-01 14:37:25.484898,"Solis, Bell and Obrien",BR,deposit
+53259ee6-a6f,70cd5cc2,7089.41,2026-05-03 10:40:25.484898,Wilson LLC,GB,transfer
+bc19b06b-30b,d8272d15,24621.92,2026-05-21 00:22:25.484898,"Gonzales, Pugh and Alvarado",CN,deposit
+7275e0dd-cd0,5d27e692,23380.08,2026-05-20 07:13:25.484898,"Jackson, Stewart and Gibson",BR,withdrawal
+9a934dd0-176,cf40a9ae,1401.2,2026-05-19 03:23:25.484898,"Frazier, King and Kelly",CN,withdrawal
+ee42bf78-62c,a77575cb,9249.77,2026-04-30 03:26:25.484898,Alvarado-Davis,BR,deposit
+e959552f-0b5,01d02351,11005.46,2026-04-30 16:50:25.484898,Boyd-Collins,GB,transfer
+9bd5fc1d-207,9f6925df,22001.66,2026-05-21 16:03:25.484898,Newton Ltd,CN,deposit
+6ba595a6-078,97b86234,24045.17,2026-05-25 08:25:25.484898,Doyle-Irwin,GB,transfer
+f244bf38-f61,29fcefa0,9531.36,2026-04-29 15:46:25.484898,"Hanna, Garrett and Delacruz",US,withdrawal
+32eb3cda-6d3,95ab6aca,2985.65,2026-05-08 23:25:25.484898,"Stone, Green and Leon",CN,withdrawal
+068e78f8-7cb,2f1ad45a,8444.74,2026-05-18 21:24:25.484898,Webb and Sons,BR,transfer
+933fcbc1-316,41c2fe2a,1984.77,2026-05-17 08:29:25.484898,Scott-Walsh,BR,withdrawal
+00c5d9ac-030,55f41c28,2459.41,2026-05-14 04:49:25.484898,"Jimenez, Rice and Chang",RU,transfer
+ce3cfecc-513,208c34d9,22794.42,2026-05-16 02:05:25.484898,"Becker, Boone and Young",BR,transfer
+259924c7-92d,5191a5ed,2435.39,2026-05-09 18:44:25.484898,Livingston Group,GB,withdrawal
+ae071a44-c00,0a1c9a13,5852.18,2026-05-18 14:39:25.484898,Rodriguez PLC,GB,transfer
+2443de04-90a,a0041597,583.09,2026-05-08 01:36:25.484898,"Smith, Williams and Lucas",GB,transfer
+2988783f-4b7,abcf696b,11953.12,2026-05-23 22:26:25.484898,Martinez Ltd,NG,deposit
+17ac6974-c9c,437cbc05,7697.01,2026-05-12 11:41:25.484898,Castro Ltd,US,transfer
+46ab05bf-833,e4578c2d,17291.83,2026-05-27 07:45:25.484898,Wilson-Jones,NG,transfer
+9dd36523-669,6d7d6895,6294.83,2026-05-07 08:07:25.484898,"Flynn, Lambert and Miller",CN,deposit
+942dcd32-3a7,19baa7ac,18381.08,2026-05-08 16:45:25.484898,Conley and Sons,CN,deposit
+fc35d9db-254,6260aa59,3577.56,2026-05-19 16:53:25.484898,Morrow LLC,RU,transfer
+1a8a6ba4-bf5,96dc8f73,4541.61,2026-05-14 15:20:25.484898,Miller-Gomez,NG,transfer
+110ae9bd-a68,7fe64bf7,3338.78,2026-04-27 12:12:25.484898,Molina and Sons,RU,withdrawal
+9247a8a3-edf,e3b2241c,3553.58,2026-05-16 19:39:25.484898,Davis-Valentine,GB,deposit
+f553fba9-3b4,c6d526ae,23949.56,2026-05-02 16:33:25.484898,"Mata, Carter and Martinez",CN,transfer
+cad07ec3-d27,9f8fc4de,23327.34,2026-05-02 13:30:25.484898,"Adams, Stewart and Davis",GB,transfer
+363c33a6-d77,be177ae4,9616.44,2026-04-30 22:23:25.484898,Cruz-Villa,RU,transfer
+ff3f38db-ec6,8f77b50d,20765.81,2026-05-06 21:52:25.484898,Williams and Sons,RU,deposit
+36277923-261,a650d583,11971.33,2026-05-06 14:32:25.484898,Martin Ltd,US,withdrawal
+7c45747d-14f,003367c4,13186.78,2026-05-18 09:57:25.484898,Henry PLC,US,deposit
+a1de5d53-564,6e857076,3132.24,2026-05-11 13:57:25.484898,"West, Smith and Massey",CN,deposit
+9cb88ac3-c64,5f3cfb66,22428.49,2026-05-05 19:09:25.484898,Walker-Morris,RU,deposit
+90c1380b-920,863f3209,23080.74,2026-05-22 05:55:25.484898,Grimes-Hamilton,NG,deposit
+0a8962ca-53c,911a9c9a,14515.98,2026-04-30 19:29:25.484898,"Brown, Smith and Hernandez",RU,transfer
+f6471075-bf6,5e5ac9f2,3641.22,2026-04-30 18:59:25.484898,Jones-Whitaker,US,withdrawal
+24fd4e05-dbc,a65c241b,466.45,2026-04-30 18:13:25.484898,Sanders LLC,GB,withdrawal
+2683cac0-a9f,4a08e1ab,1626.36,2026-05-24 02:14:25.484898,"Morrison, Greene and Christensen",US,deposit
+61e87571-633,fa678bac,20463.9,2026-05-07 04:47:25.484898,Bruce-Pham,US,deposit
+883097a4-8c1,de40c5c1,11327.06,2026-05-08 01:52:25.484898,Ochoa-Massey,RU,transfer
+8739f5d2-f58,ac10e57c,22859.75,2026-05-26 05:03:25.484898,"Johnson, Quinn and Delacruz",CN,transfer
+f7672d86-12b,51df70b9,4751.5,2026-04-27 22:51:25.484898,Berry Inc,GB,deposit
+34e4ac03-60b,1d0c974b,21212.35,2026-05-06 17:57:25.484898,Bishop-Jimenez,BR,deposit
+b578282b-634,df4e7c25,19250.02,2026-05-06 15:17:25.484898,Ramos-Henry,GB,transfer
+a000b830-acd,9e51011d,9978.8,2026-05-18 05:47:25.484898,Bonilla Inc,US,deposit
+c3af931e-71a,ece881ac,18260.7,2026-05-22 16:12:25.484898,Hansen-Nelson,US,deposit
+90792594-298,084dafb8,4996.69,2026-05-20 05:41:25.484898,Sullivan-Sullivan,BR,transfer
+0783b9fe-e55,94b1603b,13905.16,2026-05-22 19:04:25.484898,Patel LLC,US,transfer
+1256e422-f91,aafa6a2f,22525.21,2026-05-03 00:40:25.484898,Jacobs Group,GB,withdrawal
+f5ebc15e-901,60ea9da8,3673.91,2026-05-12 16:12:25.484898,Rivera and Sons,BR,deposit
+68d76c01-341,b2fa6569,12751.41,2026-05-25 20:40:25.484898,Scott-Hudson,BR,deposit
+45f377f0-be4,bf659738,15220.87,2026-05-21 01:45:25.484898,Bishop Inc,RU,deposit
+44c0d529-fc1,c4afd15b,453.85,2026-05-17 18:55:25.484898,"Ryan, Thompson and Bowen",BR,transfer
+420b92ae-f97,9917528a,19999.16,2026-05-20 14:03:25.484898,Robinson Inc,NG,transfer
+f06c0e04-f03,03434426,8971.52,2026-05-23 06:44:25.484898,Willis Ltd,RU,withdrawal
+ce546407-fe4,565a8f9f,18727.86,2026-04-29 15:25:25.484898,"Dean, Miller and Mcdaniel",RU,withdrawal
+cf74d909-407,8b359ce4,9381.53,2026-05-18 17:36:25.484898,Schneider LLC,BR,deposit
+2d5fb29f-e0a,ebe83a63,16397.45,2026-05-20 11:43:25.484898,Olsen-Williamson,CN,deposit
+baeed670-234,6fd7d7b9,9492.51,2026-04-29 08:24:25.484898,Glenn PLC,BR,deposit
+6ab8344c-bc0,494e8feb,11009.02,2026-05-02 20:08:25.484898,"Webster, Gibson and Moore",RU,transfer
+cb257b1f-453,a438f0a1,2692.83,2026-05-27 02:06:25.484898,Walsh LLC,GB,transfer
+532675df-981,13277980,14467.95,2026-04-30 18:15:25.484898,Hood-Martin,CN,transfer
+ce9e0617-fe4,8ce9864a,15026.8,2026-05-27 07:09:25.484898,"Parker, Marquez and Bailey",US,transfer
+40aa895c-64b,5dc6cd50,12669.41,2026-05-04 23:52:25.484898,Foster Ltd,NG,deposit
+b42676c6-5ea,195ec5e1,10669.46,2026-05-22 11:55:25.484898,Chandler LLC,BR,withdrawal
+732f201c-107,dad377e7,3294.21,2026-05-26 10:34:25.484898,Kidd-Lee,BR,deposit
+746ae47d-a4f,478938f7,3584.86,2026-05-08 04:25:25.484898,Fuller Group,CN,transfer
+4457063c-447,dcb1c614,12661.64,2026-05-04 11:27:25.484898,Roberts-George,BR,deposit
+0c54f9f0-683,21bd66cf,14975.48,2026-05-12 09:49:25.484898,Costa PLC,NG,deposit
+f32249fa-e78,02bcfa88,11118.43,2026-05-06 16:40:25.484898,Bennett LLC,US,withdrawal
+9eb80f52-788,6cb9b9aa,2948.48,2026-05-21 05:39:25.484898,Bowman-Davis,CN,transfer
+bacf2bc9-1e5,5dbf555a,279.54,2026-05-15 17:05:25.484898,"Murray, Thompson and Carlson",US,transfer
+98142302-c9a,ce091007,22829.75,2026-05-27 01:06:25.484898,Taylor-Gonzalez,NG,withdrawal
+84818263-537,68c1732f,21643.05,2026-05-12 22:18:25.484898,Williams-Thomas,US,transfer
+6ecc48a7-77c,9e51d0e4,6620.93,2026-05-26 15:03:25.484898,Collins Inc,CN,deposit
+7d542338-b0e,7970d4bf,3810.06,2026-05-07 17:34:25.484898,Armstrong Inc,CN,deposit
+80623ae1-b7b,f390e370,5971.59,2026-05-13 07:27:25.484898,Hernandez-Pierce,US,transfer
+4e2d9d7c-3ec,aaf46acb,5152.7,2026-05-27 07:36:25.484898,Young PLC,CN,transfer
+14cd1a32-890,80b0167f,6655.86,2026-05-12 05:29:25.484898,Miller-Schultz,NG,deposit
+efefe333-ee9,608eec8b,6899.92,2026-05-14 03:10:25.484898,Parker-Hines,GB,transfer
+3bb5d3b1-96d,e05c70d2,20286.81,2026-05-24 01:22:25.484898,"Conway, Grant and Faulkner",US,deposit
+af3fa0b8-353,2f1cab96,22933.71,2026-05-14 08:43:25.484898,Wallace PLC,CN,transfer
+add2476f-8d3,34eb5dac,11470.89,2026-05-12 22:11:25.484898,"Hawkins, Hodge and Clark",RU,withdrawal
+eb3289ef-bc8,47af3a26,7746.98,2026-05-15 05:14:25.484898,Thomas Group,CN,transfer
+8120af2a-133,458947f8,11257.47,2026-05-16 17:09:25.484898,Parks Group,GB,transfer
+67bf3ced-3eb,ee1bdbd4,1654.77,2026-05-12 18:49:25.484898,Gray LLC,NG,transfer
+4efba250-044,b0bdbe80,17449.52,2026-04-28 15:43:25.484898,"Joseph, Gregory and Frazier",NG,withdrawal
+30c71f98-a78,88f295bd,10390.88,2026-05-14 07:01:25.484898,"Miranda, Lee and Austin",BR,deposit
+5e17ddbe-cee,35afc6c7,10699.11,2026-05-11 19:03:25.484898,"Clark, Williams and Elliott",GB,withdrawal
+5528a6fc-1a4,6428fea5,4269.87,2026-05-18 16:35:25.484898,"Silva, Brown and Bowen",GB,withdrawal
+a94984e4-6d9,90988cd0,17253.43,2026-05-07 15:06:25.484898,Perry-Stevens,GB,withdrawal
+e9dae0fa-566,2920661a,12097.04,2026-05-14 04:34:25.484898,Ferguson PLC,NG,withdrawal
+754b4015-14d,3940789b,2558.14,2026-05-02 01:16:25.484898,Smith-Ray,CN,withdrawal
+c3cf2ac7-ecb,0f8e9daa,5597.33,2026-05-20 15:01:25.484898,Faulkner Ltd,RU,deposit
+113e1ed6-226,f94c54d4,8582.87,2026-05-06 13:39:25.484898,"Hicks, Jenkins and Valdez",NG,transfer
+83ab312a-2aa,35e89181,8316.17,2026-05-04 11:32:25.484898,Ferguson LLC,GB,withdrawal
+32f33713-099,06e52779,16321.14,2026-05-23 19:11:25.484898,Stewart Ltd,US,withdrawal
+113b1843-61f,8869cc6e,10043.51,2026-05-14 05:17:25.484898,Kaiser-Holland,NG,deposit
+3fa4bffd-cf3,9a5332de,20766.16,2026-05-02 01:33:25.484898,Miller and Sons,US,deposit
+ef5a9646-a14,589de2e2,24375.36,2026-05-10 19:42:25.484898,"Williams, Diaz and Martin",BR,transfer
+35b97118-c70,70e49132,3106.2,2026-05-21 09:02:25.484898,"Cox, King and Lucas",CN,deposit
+296743e8-23f,9b2be7d7,24394.63,2026-05-22 13:42:25.484898,"Sexton, Rice and Miller",NG,deposit
+23fcdc18-1a3,39c61d7c,6588.45,2026-05-05 14:14:25.484898,King-Beltran,RU,transfer
+d93d35e6-128,c6229070,838.01,2026-05-21 22:44:25.484898,Wright LLC,US,deposit
+682ef53d-56b,c8c268d2,1369.94,2026-05-23 20:17:25.484898,Cervantes-Williams,NG,transfer
+0b167ba8-a81,98fe91ce,17599.66,2026-05-21 01:57:25.484898,Clayton Ltd,RU,deposit
+605fb482-134,c45adb25,24467.09,2026-05-24 23:02:25.484898,"Mccann, Graves and Leonard",US,transfer
+75913313-667,93321308,10273.51,2026-05-23 00:11:25.484898,Rodriguez LLC,BR,withdrawal
+4736c4cd-6a2,eb81ce80,12893.03,2026-05-14 05:36:25.484898,Castro-Ortega,US,deposit
+8744b297-923,881b92e5,15525.51,2026-05-17 09:50:25.484898,Poole-Ward,US,transfer
+0809d98b-0a2,3bb112d9,18781.26,2026-05-15 23:13:25.484898,"Zuniga, Wilkins and Smith",GB,withdrawal
+c72a3c32-dc8,9bac98dd,10018.3,2026-05-02 18:25:25.484898,Smith PLC,GB,transfer
+27b98b94-6e2,4b2dd8a4,10424.22,2026-05-12 21:35:25.484898,"Roth, Christian and Simpson",NG,transfer
+5ce7fdeb-27e,dbc405c6,16235.32,2026-05-24 14:41:25.484898,"Pope, Payne and Hill",RU,deposit
+36bba145-f26,b52546c8,14315.39,2026-05-03 15:02:25.484898,Saunders-Green,NG,transfer
+5dc2bad0-f33,060fc844,9435.23,2026-05-12 18:15:25.484898,Simpson-Mccullough,RU,transfer
+60bd698e-97e,792c2cf5,20112.28,2026-05-13 00:04:25.484898,"Robinson, Richardson and Payne",CN,withdrawal
+3c24287b-5d3,98519615,15115.57,2026-05-24 09:46:25.484898,Flores and Sons,GB,transfer
+3a17e143-89d,20a6ac24,21098.34,2026-05-13 10:49:25.484898,Swanson and Sons,US,transfer
+246a29dc-092,d986a43d,5720.73,2026-05-16 14:31:25.484898,Meyer Inc,RU,transfer
+9fc2c848-39a,77e28541,18462.89,2026-05-24 19:45:25.484898,Wilson Inc,RU,transfer
+c09453f1-639,0edbfb52,200.9,2026-05-14 03:19:25.484898,Jackson and Sons,NG,transfer
+5b17c4a3-cd8,7449c46a,24149.85,2026-05-12 08:14:25.484898,Chan LLC,GB,deposit
+e223630a-919,913abf6c,24777.29,2026-05-22 19:30:25.484898,Sawyer-Brown,RU,withdrawal
+67a29a14-79c,23059b03,23952.2,2026-05-17 13:13:25.484898,Mcdowell-Conley,GB,transfer
+0f4a4fd7-3bb,9882a925,5997.71,2026-05-20 01:44:25.484898,Mcneil-Adkins,NG,transfer
+416fa8de-790,deaade6a,19226.02,2026-05-15 03:34:25.484898,"Brown, Daugherty and Wells",NG,deposit
+fc23c47c-ddd,41d177aa,19585.06,2026-05-10 02:22:25.484898,Carr Group,CN,transfer
+6f0a1322-b50,8c03c817,1376.53,2026-05-20 21:36:25.484898,"Brown, Morrison and Smith",NG,transfer
+2086f6c0-447,9ce4b091,17090.51,2026-04-30 18:33:25.484898,Sanders-Jordan,BR,withdrawal
+55425d12-168,7832ed75,11274.48,2026-05-23 21:50:25.484898,"Evans, Wolf and Jordan",CN,deposit
+5c582bfd-1af,bb68b7b6,24702.55,2026-05-07 15:56:25.484898,"Lane, Simpson and Harris",CN,transfer
+f322f182-6c0,bb12cf6d,13717.18,2026-04-28 03:28:25.484898,Keller-Hunter,RU,deposit
+b1048c62-2de,c53ecd54,8541.53,2026-05-04 23:36:25.484898,Moody-Carr,NG,withdrawal
+784dcd9b-0e3,2ddbce14,2621.4,2026-05-02 08:30:25.484898,"Bruce, Aguilar and Pineda",RU,deposit
+0fa4b6e9-ab1,9f927f97,3643.85,2026-05-21 03:07:25.484898,Baker and Sons,BR,withdrawal
+eb2a99d9-eba,94de2866,253.63,2026-05-04 19:32:25.484898,Lutz-Crosby,BR,transfer
+42e0d1f9-ff4,4df6040a,17745.34,2026-05-23 22:31:25.484898,Rangel LLC,GB,transfer
+1bef0d4b-3c7,df3c5b57,6773.08,2026-05-05 15:45:25.484898,"Martinez, Ho and Martin",US,withdrawal
+a13b6a3f-f76,59640d8e,22016.98,2026-04-29 07:22:25.484898,"Coffey, Michael and Marshall",RU,deposit
+ec0fa456-501,0ccf9f64,22347.94,2026-05-16 12:14:25.484898,Miller Inc,CN,transfer
+772b1eff-80e,baadf37f,23954.26,2026-05-17 02:35:25.484898,"Fernandez, Allen and Aguirre",BR,deposit
+35797709-6be,5d6175b3,889.49,2026-05-06 17:23:25.484898,"Gutierrez, Williams and Butler",NG,transfer
+fe820070-704,20c1dca3,16926.84,2026-05-01 21:23:25.484898,Cooper-Solomon,CN,deposit
+bd8a113d-930,0b474375,15494.97,2026-05-02 09:29:25.484898,Jones-Reyes,GB,withdrawal
+dd03ceaf-33a,a4251584,23201.12,2026-04-29 06:53:25.484898,"Castaneda, Hernandez and Morgan",GB,withdrawal
+a27edb5a-aea,4c024683,327.96,2026-05-21 16:35:25.484898,Nelson-Keller,NG,deposit
+0da78063-915,a70ab63d,22936.72,2026-05-12 13:39:25.484898,Gonzalez and Sons,CN,transfer
+7d65045f-062,fafd8549,21770.97,2026-04-28 10:51:25.484898,"Coleman, Watson and Mejia",BR,deposit
+8092356a-efe,63879486,12403.58,2026-05-14 22:35:25.484898,Hunt-Heath,US,deposit
+e6ede70b-d2e,74b0fbe9,24877.02,2026-05-14 02:53:25.484898,"Mosley, Hull and Graham",RU,deposit
+8a5bb0d3-6f2,5e9b8502,6894.83,2026-05-19 15:08:25.484898,Hampton-Garcia,BR,withdrawal
+bdc4b9c5-18e,2efa0b2e,24294.37,2026-05-23 23:09:25.484898,Mcmillan-Martinez,CN,deposit
+a7c65946-338,985aec89,15628.84,2026-05-19 08:56:25.484898,Phelps Inc,BR,withdrawal
+535bcbbe-460,502b6bfc,5730.3,2026-05-26 07:21:25.484898,Mccormick LLC,RU,deposit
+f4cef184-a0a,6e480921,10338.86,2026-04-28 20:27:25.484898,Gonzales-Watson,RU,transfer
+6aa06b05-e98,6c2f9934,8905.08,2026-05-13 20:04:25.484898,"Scott, Mitchell and Mckay",NG,withdrawal
+653729e9-278,9281ff63,3925.83,2026-05-04 07:38:25.484898,Perkins-Greene,CN,deposit
+112e5e1e-b91,25ff9a7e,13011.29,2026-05-20 06:32:25.484898,White Group,CN,deposit
+8cc98d0f-555,871f5fdc,16460.56,2026-05-13 09:16:25.484898,Alvarado LLC,US,deposit
+987f0ba8-803,13580789,5592.76,2026-05-12 02:33:25.484898,Davidson Ltd,RU,deposit
+768ba0c3-e88,54884aa5,19268.44,2026-05-12 10:34:25.484898,Miller-Martin,US,withdrawal
+f27223c3-998,a411d397,3275.45,2026-05-26 23:31:25.484898,Hernandez and Sons,BR,deposit
+035b8c10-5cf,611fefa1,5608.66,2026-05-12 05:19:25.484898,Clark-Hall,RU,deposit
+49c4589f-228,d49803d8,19112.96,2026-04-29 03:09:25.484898,"Mccarty, Noble and Yates",RU,withdrawal
+617523eb-67c,58943c03,6483.09,2026-05-26 11:02:25.484898,"Price, Adkins and Davis",NG,withdrawal
+1df560f9-a5c,52ebd441,16673.96,2026-05-22 16:23:25.484898,George Inc,CN,transfer
+5c59b783-7ce,596e959b,11888.94,2026-05-16 00:00:25.484898,Wallace-Alvarez,BR,withdrawal
+3d3a039a-80e,6893ce36,16769.64,2026-05-14 17:06:25.484898,Fritz-Carroll,CN,transfer
+7bda0dfb-952,a3cecce4,6590.08,2026-05-24 21:04:25.484898,"Richard, Pace and Alexander",RU,withdrawal
+fdc604d9-5e2,0d9a1c20,8523.47,2026-05-12 08:25:25.484898,Blackburn Inc,GB,withdrawal
+b39a56d8-e01,17f221f9,19545.96,2026-05-26 20:49:25.484898,Anderson and Sons,GB,transfer
+41b58c27-943,80e2e919,21473.23,2026-04-30 07:21:25.484898,Rodriguez-Marshall,RU,transfer
+c9771aa3-71e,afd717e5,23854.73,2026-04-27 22:14:25.484898,Anderson Group,BR,deposit
+98a2fbd2-4e1,52abeea3,13613.05,2026-05-17 16:46:25.484898,Kennedy-Hayes,GB,transfer
+50f69fc5-645,12d08fb7,16737.75,2026-05-25 12:20:25.484898,Romero and Sons,US,transfer
+8f9c65c3-1fa,355fd677,12655.79,2026-05-15 07:12:25.484898,Guzman-Wolfe,GB,transfer
+98b12029-536,9aa5b772,22468.93,2026-05-11 19:30:25.484898,Mckenzie-Fernandez,GB,withdrawal
+50b6d92e-d80,eed8188a,14813.0,2026-05-18 03:08:25.484898,"Johnson, Perkins and Ruiz",CN,withdrawal
+45d3d8eb-222,bfc073f1,4730.78,2026-05-20 01:45:25.484898,Cook LLC,BR,transfer
+23bd75a8-35b,2444de2e,22304.55,2026-05-16 07:53:25.484898,Hammond-Banks,RU,deposit

@@ -1,4 +1,4 @@
-Markdown# 🛡️ Vigilia - AML Transaction Monitoring Dashboard
+🛡️ Vigilia - AML Transaction Monitoring Dashboard
 
 **Vigilia** is a rule-based Anti-Money Laundering (AML) transaction monitoring tool. It helps detect suspicious financial activity such as large transfers, structuring, high-risk country transactions, and rapid movements.
 
